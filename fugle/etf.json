@@ -1,0 +1,134 @@
+[
+    {
+        "symbol_id" : "0050",
+        "name" : "元大台灣50"
+    },
+    {
+        "symbol_id" : "0051",
+        "name" : "元大中型100"
+    },
+    {
+        "symbol_id" : "0052",
+        "name" : "富邦科技"
+    },
+    {
+        "symbol_id" : "0053",
+        "name" : "元大電子"
+    },
+    {
+        "symbol_id" : "0054",
+        "name" : "元大台商50"
+    },
+    {
+        "symbol_id" : "0055",
+        "name" : "元大MSCI金融"
+    },
+    {
+        "symbol_id" : "0056",
+        "name" : "元大高股息"
+    },
+    {
+        "symbol_id" : "0057",
+        "name" : "富邦摩台"
+    },
+    {
+        "symbol_id" : "0058",
+        "name" : "富邦發達"
+    },
+    {
+        "symbol_id" : "0059",
+        "name" : "富邦金融"
+    },
+    {
+        "symbol_id" : "0061",
+        "name" : "元大寶滬深"
+    },
+    {
+        "symbol_id" : "006203",
+        "name" : "元大MSCI台灣"
+    },
+    {
+        "symbol_id" : "006204",
+        "name" : "永豐臺灣加權"
+    },
+    {
+        "symbol_id" : "006206",
+        "name" : "元大上證50"
+    },
+    {
+        "symbol_id" : "006207",
+        "name" : "FH滬深"
+    },
+    {
+        "symbol_id" : "006208",
+        "name" : "富邦台50"
+    },
+    {
+        "symbol_id" : "00636",
+        "name" : "國泰中國A50"
+    },
+    {
+        "symbol_id" : "00639",
+        "name" : "富邦深100"
+    },
+    {
+        "symbol_id" : "00645",
+        "name" : "富邦日本"
+    },
+    {
+        "symbol_id" : "00646",
+        "name" : "元大S&P500"
+    },
+    {
+        "symbol_id" : "00649",
+        "name" : "FH香港"
+    },
+    {
+        "symbol_id" : "00652",
+        "name" : "富邦印度"
+    },
+    {
+        "symbol_id" : "00657",
+        "name" : "國泰日經225"
+    },
+    {
+        "symbol_id" : "00660",
+        "name" : "元大歐洲50"
+    },
+    {
+        "symbol_id" : "00661",
+        "name" : "元大日經225"
+    },
+    {
+        "symbol_id" : "00662",
+        "name" : "富邦NASDAQ"
+    },
+    {
+        "symbol_id" : "00667",
+        "name" : "元大韓國"
+    },
+    {
+        "symbol_id" : "00668",
+        "name" : "國泰美國道瓊"
+    },
+    {
+        "symbol_id" : "006205",
+        "name" : "富邦上証"
+    },
+    {
+        "symbol_id" : "00625K",
+        "name" : "富邦上証+R"
+    },
+    {
+        "symbol_id" : "00643",
+        "name" : "群益深証中小"
+    },
+    {
+        "symbol_id" : "00643K",
+        "name" : "群益深証中小+R"
+    },
+    {
+        "symbol_id" : "Y9999",
+        "name" : "大盤"
+    }
+]

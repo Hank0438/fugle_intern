@@ -1,0 +1,1012 @@
+{
+    "nodes": [
+        {
+            "id": "聯傑",
+            "group": 5
+        },
+        {
+            "id": "景碩",
+            "group": 5
+        },
+        {
+            "id": "奕力",
+            "group": 5
+        },
+        {
+            "id": "達能",
+            "group": 5
+        },
+        {
+            "id": "虹冠電",
+            "group": 5
+        },
+        {
+            "id": "創意",
+            "group": 5
+        },
+        {
+            "id": "華亞科",
+            "group": 5
+        },
+        {
+            "id": "綠能",
+            "group": 5
+        },
+        {
+            "id": "台勝科",
+            "group": 5
+        },
+        {
+            "id": "誠創",
+            "group": 5
+        },
+        {
+            "id": "敦泰",
+            "group": 5
+        },
+        {
+            "id": "全智科",
+            "group": 5
+        },
+        {
+            "id": "尚志",
+            "group": 5
+        },
+        {
+            "id": "辛耘",
+            "group": 5
+        },
+        {
+            "id": "通嘉",
+            "group": 5
+        },
+        {
+            "id": "F-世芯",
+            "group": 5
+        },
+        {
+            "id": "新唐",
+            "group": 5
+        },
+        {
+            "id": "立錡",
+            "group": 5
+        },
+        {
+            "id": "普格",
+            "group": 5
+        },
+        {
+            "id": "圓創",
+            "group": 5
+        },
+        {
+            "id": "凌通",
+            "group": 5
+        },
+        {
+            "id": "祥碩",
+            "group": 5
+        },
+        {
+            "id": "界霖",
+            "group": 5
+        },
+        {
+            "id": "敦南",
+            "group": 5
+        },
+        {
+            "id": "松翰",
+            "group": 5
+        },
+        {
+            "id": "盛群",
+            "group": 5
+        },
+        {
+            "id": "迅杰",
+            "group": 5
+        },
+        {
+            "id": "力成",
+            "group": 5
+        },
+        {
+            "id": "矽格",
+            "group": 5
+        },
+        {
+            "id": "同欣電",
+            "group": 5
+        },
+        {
+            "id": "F-矽力",
+            "group": 5
+        },
+        {
+            "id": "F-訊芯",
+            "group": 5
+        },
+        {
+            "id": "矽創",
+            "group": 5
+        },
+        {
+            "id": "致新",
+            "group": 5
+        },
+        {
+            "id": "華東",
+            "group": 5
+        },
+        {
+            "id": "福懋科",
+            "group": 5
+        },
+        {
+            "id": "南茂",
+            "group": 5
+        },
+        {
+            "id": "富鼎",
+            "group": 5
+        },
+        {
+            "id": "宇瞻",
+            "group": 5
+        },
+        {
+            "id": "勤益控",
+            "group": 5
+        },
+        {
+            "id": "聯電",
+            "group": 5
+        },
+        {
+            "id": "麗正",
+            "group": 5
+        },
+        {
+            "id": "日月光",
+            "group": 5
+        },
+        {
+            "id": "矽品",
+            "group": 5
+        },
+        {
+            "id": "台積電",
+            "group": 5
+        },
+        {
+            "id": "華泰",
+            "group": 5
+        },
+        {
+            "id": "光罩",
+            "group": 5
+        },
+        {
+            "id": "旺宏",
+            "group": 5
+        },
+        {
+            "id": "華邦電",
+            "group": 5
+        },
+        {
+            "id": "茂矽",
+            "group": 5
+        },
+        {
+            "id": "順德",
+            "group": 5
+        },
+        {
+            "id": "菱生",
+            "group": 5
+        },
+        {
+            "id": "矽統",
+            "group": 5
+        },
+        {
+            "id": "瑞昱",
+            "group": 5
+        },
+        {
+            "id": "威盛",
+            "group": 5
+        },
+        {
+            "id": "凌陽",
+            "group": 5
+        },
+        {
+            "id": "南亞科",
+            "group": 5
+        },
+        {
+            "id": "統懋",
+            "group": 5
+        },
+        {
+            "id": "超豐",
+            "group": 5
+        },
+        {
+            "id": "偉詮電",
+            "group": 5
+        },
+        {
+            "id": "京元電",
+            "group": 5
+        },
+        {
+            "id": "創見",
+            "group": 5
+        },
+        {
+            "id": "聯發科",
+            "group": 5
+        },
+        {
+            "id": "義隆",
+            "group": 5
+        },
+        {
+            "id": "強茂",
+            "group": 5
+        },
+        {
+            "id": "晶豪科",
+            "group": 5
+        },
+        {
+            "id": "嘉晶",
+            "group": 5
+        },
+        {
+            "id": "聯陽",
+            "group": 5
+        },
+        {
+            "id": "智原",
+            "group": 5
+        },
+        {
+            "id": "聯詠",
+            "group": 5
+        },
+        {
+            "id": "揚智",
+            "group": 5
+        },
+        {
+            "id": "立萬利",
+            "group": 5
+        },
+        {
+            "id": "穩懋",
+            "group": 5
+        },
+        {
+            "id": "笙泉",
+            "group": 5
+        },
+        {
+            "id": "晶宏",
+            "group": 5
+        },
+        {
+            "id": "亞信",
+            "group": 5
+        },
+        {
+            "id": "安茂",
+            "group": 5
+        },
+        {
+            "id": "倚強",
+            "group": 5
+        },
+        {
+            "id": "原相",
+            "group": 5
+        },
+        {
+            "id": "金麗科",
+            "group": 5
+        },
+        {
+            "id": "鑫創",
+            "group": 5
+        },
+        {
+            "id": "欣銓",
+            "group": 5
+        },
+        {
+            "id": "威剛",
+            "group": 5
+        },
+        {
+            "id": "台星科",
+            "group": 5
+        },
+        {
+            "id": "海德威",
+            "group": 5
+        },
+        {
+            "id": "遠翔科",
+            "group": 5
+        },
+        {
+            "id": "尼克森",
+            "group": 5
+        },
+        {
+            "id": "典範",
+            "group": 5
+        },
+        {
+            "id": "精材",
+            "group": 5
+        },
+        {
+            "id": "類比科",
+            "group": 5
+        },
+        {
+            "id": "聚積",
+            "group": 5
+        },
+        {
+            "id": "力旺",
+            "group": 5
+        },
+        {
+            "id": "力積",
+            "group": 5
+        },
+        {
+            "id": "擎泰",
+            "group": 5
+        },
+        {
+            "id": "禾瑞亞",
+            "group": 5
+        },
+        {
+            "id": "逸昌",
+            "group": 5
+        },
+        {
+            "id": "博磊",
+            "group": 5
+        },
+        {
+            "id": "漢微科",
+            "group": 5
+        },
+        {
+            "id": "德微",
+            "group": 5
+        },
+        {
+            "id": "家登",
+            "group": 5
+        },
+        {
+            "id": "漢磊",
+            "group": 5
+        },
+        {
+            "id": "F-昂寶",
+            "group": 5
+        },
+        {
+            "id": "F-譜瑞",
+            "group": 5
+        },
+        {
+            "id": "F-IET",
+            "group": 5
+        },
+        {
+            "id": "廣穎",
+            "group": 5
+        },
+        {
+            "id": "F-環宇",
+            "group": 5
+        },
+        {
+            "id": "笙科",
+            "group": 5
+        },
+        {
+            "id": "信驊",
+            "group": 5
+        },
+        {
+            "id": "太欣",
+            "group": 5
+        },
+        {
+            "id": "世紀",
+            "group": 5
+        },
+        {
+            "id": "立衛",
+            "group": 5
+        },
+        {
+            "id": "世界",
+            "group": 5
+        },
+        {
+            "id": "鈺創",
+            "group": 5
+        },
+        {
+            "id": "台半",
+            "group": 5
+        },
+        {
+            "id": "訊利電",
+            "group": 5
+        },
+        {
+            "id": "凱鈺",
+            "group": 5
+        },
+        {
+            "id": "中美晶",
+            "group": 5
+        },
+        {
+            "id": "通泰",
+            "group": 5
+        },
+        {
+            "id": "建華證券",
+            "group": 5
+        },
+        {
+            "id": "台育證券",
+            "group": 5
+        },
+        {
+            "id": "大華證",
+            "group": 5
+        },
+        {
+            "id": "富邦證券",
+            "group": 5
+        },
+        {
+            "id": "元富證券",
+            "group": 5
+        },
+        {
+            "id": "永昌證券",
+            "group": 5
+        },
+        {
+            "id": "台証證券",
+            "group": 5
+        },
+        {
+            "id": "京華證券",
+            "group": 5
+        },
+        {
+            "id": "寶來證",
+            "group": 5
+        },
+        {
+            "id": "日盛證券",
+            "group": 5
+        },
+        {
+            "id": "新寶證券",
+            "group": 5
+        },
+        {
+            "id": "統一證券",
+            "group": 5
+        },
+        {
+            "id": "合邦",
+            "group": 5
+        },
+        {
+            "id": "創惟",
+            "group": 5
+        },
+        {
+            "id": "普誠",
+            "group": 5
+        },
+        {
+            "id": "茂達",
+            "group": 5
+        },
+        {
+            "id": "頎邦",
+            "group": 5
+        },
+        {
+            "id": "合晶",
+            "group": 5
+        },
+        {
+            "id": "凌泰",
+            "group": 5
+        },
+        {
+            "id": "旺矽",
+            "group": 5
+        },
+        {
+            "id": "研通",
+            "group": 5
+        },
+        {
+            "id": "旺玖",
+            "group": 5
+        },
+        {
+            "id": "驊訊",
+            "group": 5
+        },
+        {
+            "id": "久元",
+            "group": 5
+        },
+        {
+            "id": "元隆",
+            "group": 5
+        },
+        {
+            "id": "沛亨",
+            "group": 5
+        },
+        {
+            "id": "晶焱",
+            "group": 5
+        },
+        {
+            "id": "紘康",
+            "group": 5
+        },
+        {
+            "id": "佑華",
+            "group": 5
+        },
+        {
+            "id": "九暘",
+            "group": 5
+        },
+        {
+            "id": "安國",
+            "group": 5
+        },
+        {
+            "id": "誠遠",
+            "group": 5
+        },
+        {
+            "id": "宏捷科",
+            "group": 5
+        },
+        {
+            "id": "品安",
+            "group": 5
+        },
+        {
+            "id": "商丞",
+            "group": 5
+        },
+        {
+            "id": "京鼎",
+            "group": 5
+        },
+        {
+            "id": "立積",
+            "group": 5
+        },
+        {
+            "id": "大中",
+            "group": 5
+        },
+        {
+            "id": "神盾",
+            "group": 5
+        },
+        {
+            "id": "點序",
+            "group": 5
+        },
+        {
+            "id": "Verisense Ltd.",
+            "group": 5
+        },
+        {
+            "id": "茂迪",
+            "group": 5
+        },
+        {
+            "id": "旭晶",
+            "group": 5
+        },
+        {
+            "id": "AMD",
+            "group": 5
+        },
+        {
+            "id": "訊芯-KY",
+            "group": 5
+        },
+        {
+            "id": "Dialog",
+            "group": 5
+        },
+        {
+            "id": "Toshiba",
+            "group": 5
+        },
+        {
+            "id": "紫光集團",
+            "group": 5
+        },
+        {
+            "id": "美國史恩希(SMSC)",
+            "group": 5
+        },
+        {
+            "id": "晶電",
+            "group": 5
+        },
+        {
+            "id": "群聯",
+            "group": 5
+        },
+        {
+            "id": "IBM",
+            "group": 5
+        },
+        {
+            "id": "Lattice Semiconductor",
+            "group": 5
+        },
+        {
+            "id": "Hitachi",
+            "group": 5
+        },
+        {
+            "id": "Infineon",
+            "group": 5
+        },
+        {
+            "id": "Kilopass",
+            "group": 5
+        },
+        {
+            "id": "宏璟",
+            "group": 5
+        },
+        {
+            "id": "鴻海",
+            "group": 5
+        },
+        {
+            "id": "比亞迪股份",
+            "group": 5
+        },
+        {
+            "id": "Tower Semiconductor",
+            "group": 5
+        },
+        {
+            "id": "遠見",
+            "group": 5
+        },
+        {
+            "id": "Micron",
+            "group": 5
+        },
+        {
+            "id": "Facebook",
+            "group": 5
+        },
+        {
+            "id": "Yahoo",
+            "group": 5
+        },
+        {
+            "id": "北京酷樂時代",
+            "group": 5
+        },
+        {
+            "id": "Precise Biometrics",
+            "group": 5
+        },
+        {
+            "id": "星友科技",
+            "group": 5
+        },
+        {
+            "id": "元太",
+            "group": 5
+        },
+        {
+            "id": "Fortemedia",
+            "group": 5
+        },
+        {
+            "id": "Soitec",
+            "group": 5
+        },
+        {
+            "id": "Applied Materials",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": "創意",
+            "target": "Verisense Ltd.",
+            "value": 5
+        },
+        {
+            "source": "綠能",
+            "target": "茂迪",
+            "value": 5
+        },
+        {
+            "source": "綠能",
+            "target": "旭晶",
+            "value": 5
+        },
+        {
+            "source": "全智科",
+            "target": "欣銓",
+            "value": 5
+        },
+        {
+            "source": "祥碩",
+            "target": "AMD",
+            "value": 5
+        },
+        {
+            "source": "敦南",
+            "target": "訊芯-KY",
+            "value": 5
+        },
+        {
+            "source": "敦南",
+            "target": "Dialog",
+            "value": 5
+        },
+        {
+            "source": "力成",
+            "target": "鑫創",
+            "value": 5
+        },
+        {
+            "source": "力成",
+            "target": "Toshiba",
+            "value": 5
+        },
+        {
+            "source": "力成",
+            "target": "紫光集團",
+            "value": 5
+        },
+        {
+            "source": "矽格",
+            "target": "誠遠",
+            "value": 5
+        },
+        {
+            "source": "矽格",
+            "target": "美國史恩希(SMSC)",
+            "value": 5
+        },
+        {
+            "source": "F-訊芯",
+            "target": "敦南",
+            "value": 5
+        },
+        {
+            "source": "華東",
+            "target": "南亞科",
+            "value": 5
+        },
+        {
+            "source": "福懋科",
+            "target": "南亞科",
+            "value": 5
+        },
+        {
+            "source": "福懋科",
+            "target": "晶電",
+            "value": 5
+        },
+        {
+            "source": "南茂",
+            "target": "紫光集團",
+            "value": 5
+        },
+        {
+            "source": "宇瞻",
+            "target": "群聯",
+            "value": 5
+        },
+        {
+            "source": "聯電",
+            "target": "晶電",
+            "value": 5
+        },
+        {
+            "source": "聯電",
+            "target": "鑫創",
+            "value": 5
+        },
+        {
+            "source": "聯電",
+            "target": "IBM",
+            "value": 5
+        },
+        {
+            "source": "聯電",
+            "target": "Lattice Semiconductor",
+            "value": 5
+        },
+        {
+            "source": "聯電",
+            "target": "Hitachi",
+            "value": 5
+        },
+        {
+            "source": "聯電",
+            "target": "Infineon",
+            "value": 5
+        },
+        {
+            "source": "聯電",
+            "target": "Kilopass",
+            "value": 5
+        },
+        {
+            "source": "日月光",
+            "target": "宏璟",
+            "value": 5
+        },
+        {
+            "source": "矽品",
+            "target": "鴻海",
+            "value": 5
+        },
+        {
+            "source": "台積電",
+            "target": "比亞迪股份",
+            "value": 5
+        },
+        {
+            "source": "旺宏",
+            "target": "Tower Semiconductor",
+            "value": 5
+        },
+        {
+            "source": "凌陽",
+            "target": "遠見",
+            "value": 5
+        },
+        {
+            "source": "南亞科",
+            "target": "華東",
+            "value": 5
+        },
+        {
+            "source": "南亞科",
+            "target": "福懋科",
+            "value": 5
+        },
+        {
+            "source": "南亞科",
+            "target": "Micron",
+            "value": 5
+        },
+        {
+            "source": "聯發科",
+            "target": "Facebook",
+            "value": 5
+        },
+        {
+            "source": "聯發科",
+            "target": "Yahoo",
+            "value": 5
+        },
+        {
+            "source": "聯發科",
+            "target": "北京酷樂時代",
+            "value": 5
+        },
+        {
+            "source": "義隆",
+            "target": "Precise Biometrics",
+            "value": 5
+        },
+        {
+            "source": "義隆",
+            "target": "星友科技",
+            "value": 5
+        },
+        {
+            "source": "嘉晶",
+            "target": "晶電",
+            "value": 5
+        },
+        {
+            "source": "穩懋",
+            "target": "晶電",
+            "value": 5
+        },
+        {
+            "source": "晶宏",
+            "target": "元太",
+            "value": 5
+        },
+        {
+            "source": "鑫創",
+            "target": "力成",
+            "value": 5
+        },
+        {
+            "source": "鑫創",
+            "target": "聯電",
+            "value": 5
+        },
+        {
+            "source": "鑫創",
+            "target": "Fortemedia",
+            "value": 5
+        },
+        {
+            "source": "欣銓",
+            "target": "全智科",
+            "value": 5
+        },
+        {
+            "source": "F-IET",
+            "target": "Soitec",
+            "value": 5
+        },
+        {
+            "source": "世界",
+            "target": "元隆",
+            "value": 5
+        },
+        {
+            "source": "元隆",
+            "target": "世界",
+            "value": 5
+        },
+        {
+            "source": "誠遠",
+            "target": "矽格",
+            "value": 5
+        },
+        {
+            "source": "京鼎",
+            "target": "Applied Materials",
+            "value": 5
+        }
+    ]
+}

@@ -1,0 +1,328 @@
+{
+    "light" : [
+        {
+            "symbol_id" : "6605",
+            "company_name" : "帝寶"
+        },
+        {
+            "symbol_id" : "1522",
+            "company_name" : "堤維西"
+        },
+        {
+            "symbol_id" : "1521",
+            "company_name" : "大億"
+        },
+        {
+            "symbol_id" : "1538",
+            "company_name" : "正峰新"
+        },
+        {
+            "symbol_id" : "3226",
+            "company_name" : "至寶電"
+        }
+    ],
+    "belt" : [
+        {
+            "symbol_id" : "2228",
+            "company_name" : "劍麟"
+        }
+    ],
+    "redirect system" : [
+        {
+            "symbol_id" : "1536",
+            "company_name" : "和大"
+        },
+        {
+            "symbol_id" : "1506",
+            "company_name" : "正道"
+        },
+        {
+            "symbol_id" : "2228",
+            "company_name" : "劍麟"
+        }
+    ],
+    "structure" : [
+        {
+            "symbol_id" : "1512",
+            "company_name" : "瑞利"
+        },
+        {
+            "symbol_id" : "1525",
+            "company_name" : "江申"
+        }
+    ],
+    "glass" : [
+        {
+            "symbol_id" : "1802",
+            "company_name" : "台玻"
+        }
+    ],
+    "fuel system" : [
+        {
+            "symbol_id" : "1512",
+            "company_name" : "瑞利"
+        }
+    ],
+    "brake" : [
+        {
+            "symbol_id" : "4557",
+            "company_name" : "F-永新"
+        },
+        {
+            "symbol_id" : "2236",
+            "company_name" : "F-百達"
+        }
+    ],
+    "axle" : [
+        {
+            "symbol_id" : "1568",
+            "company_name" : "倉佑"
+        },
+        {
+            "symbol_id" : "1536",
+            "company_name" : "和大"
+        }
+    ],
+    "tire" : [
+        {
+            "symbol_id" : "2101",
+            "company_name" : "南港"
+        },
+        {
+            "symbol_id" : "2102",
+            "company_name" : "泰豐"
+        },
+        {
+            "symbol_id" : "2105",
+            "company_name" : "正新"
+        },
+        {
+            "symbol_id" : "2106",
+            "company_name" : "建大"
+        }
+    ],
+    "electrical system" : [
+        {
+            "symbol_id" : "1503",
+            "company_name" : "士電"
+        },
+        {
+            "symbol_id" : "1504",
+            "company_name" : "東元"
+        }
+    ],
+    "precision metal" : [
+        {
+            "symbol_id" : "2233",
+            "company_name" : "宇隆"
+        },
+        {
+            "symbol_id" : "4551",
+            "company_name" : "智伸科"
+        }
+    ],
+    "circut" : [
+        {
+            "symbol_id" : "3552",
+            "company_name" : "同致"
+        },
+        {
+            "symbol_id" : "1533",
+            "company_name" : "車王電"
+        },
+        {
+            "symbol_id" : "2301",
+            "company_name" : "光寶"
+        },
+        {
+            "symbol_id" : "2479",
+            "company_name" : "怡利電"
+        },
+        {
+            "symbol_id" : "2231",
+            "company_name" : "為升"
+        },
+        {
+            "symbol_id" : "2115",
+            "company_name" : "F-六暉"
+        },
+        {
+            "symbol_id" : "8255",
+            "company_name" : "朋程"
+        }
+    ],
+    "part" : [
+        {
+            "symbol_id" : "1139",
+            "company_name" : "東陽"
+        },
+        {
+            "symbol_id" : "1339",
+            "company_name" : "昭輝"
+        },
+        {
+            "symbol_id" : "1525",
+            "company_name" : "江申"
+        }
+    ],
+    "bumper" : [
+        {
+            "symbol_id" : "1139",
+            "company_name" : "東陽"
+        },
+        {
+            "symbol_id" : "1339",
+            "company_name" : "昭輝"
+        },
+        {
+            "symbol_id" : "1524",
+            "company_name" : "耿鼎"
+        }
+    ],
+    "rim" : [
+        {
+            "symbol_id" : "1563",
+            "company_name" : "巧新"
+        },
+        {
+            "symbol_id" : "4502",
+            "company_name" : "健信"
+        }
+    ],
+    "inside" : [
+        {
+            "symbol_id" : "1338",
+            "company_name" : "F-廣華"
+        },
+        {
+            "symbol_id" : "1319",
+            "company_name" : "東陽"
+        }
+    ],
+    "suspend system" : [
+        {
+            "symbol_id" : "1506",
+            "company_name" : "正道"
+        }
+    ],
+    "transmission" : [
+        {
+            "symbol_id" : "1568",
+            "company_name" : "倉佑"
+        },
+        {
+            "symbol_id" : "4535",
+            "company_name" : "至興"
+        }
+    ],
+    "fan" : [
+        {
+            "symbol_id" : "4523",
+            "company_name" : "永彰"
+        },
+        {
+            "symbol_id" : "1503",
+            "company_name" : "士電"
+        },
+        {
+            "symbol_id" : "1592",
+            "company_name" : "F-英瑞"
+        },
+        {
+            "symbol_id" : "4543",
+            "company_name" : "萬在"
+        },
+        {
+            "symbol_id" : "2235",
+            "company_name" : "謚源"
+        },
+        {
+            "symbol_id" : "6275",
+            "company_name" : "元山"
+        }
+    ],
+    "sales" : [
+        {
+            "symbol_id" : "2204",
+            "company_name" : "中華車"
+        },
+        {
+            "symbol_id" : "2206",
+            "company_name" : "三陽"
+        },
+        {
+            "symbol_id" : "2207",
+            "company_name" : "和泰車"
+        },
+        {
+            "symbol_id" : "2227",
+            "company_name" : "裕日車"
+        }
+    ],
+    "sheet metal" : [
+        {
+            "symbol_id" : "1523",
+            "company_name" : "江申"
+        },
+        {
+            "symbol_id" : "1524",
+            "company_name" : "耿鼎"
+        },
+        {
+            "symbol_id" : "1512",
+            "company_name" : "瑞利"
+        },
+        {
+            "symbol_id" : "1319",
+            "company_name" : "東陽"
+        }
+    ],
+    "connect" : [
+        {
+            "symbol_id" : "6279",
+            "company_name" : "胡連"
+        },
+        {
+            "symbol_id" : "3003",
+            "company_name" : "健和興"
+        },
+        {
+            "symbol_id" : "3665",
+            "company_name" : "F-貿聯"
+        },
+        {
+            "symbol_id" : "5276",
+            "company_name" : "F-達輝"
+        }
+    ],
+    "fasteners" : [
+        {
+            "symbol_id" : "2066",
+            "company_name" : "世德"
+        }
+    ],
+    "curtain" : [
+        {
+            "symbol_id" : "9951",
+            "company_name" : "皇田"
+        }
+    ],
+    "assembling" : [
+        {
+            "symbol_id" : "2201",
+            "company_name" : "裕隆"
+        },
+        {
+            "symbol_id" : "2204",
+            "company_name" : "中華車"
+        },
+        {
+            "symbol_id" : "2227",
+            "company_name" : "裕日車"
+        },
+        {
+            "symbol_id" : "2206",
+            "company_name" : "三陽"
+        }
+    ]
+}

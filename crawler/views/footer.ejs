@@ -1,0 +1,43 @@
+<!-- Footer -->
+
+    <!-- jQuery Version 1.11.1 -->
+    <script src="/javascripts/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="/javascripts/bootstrap.min.js"></script>
+
+    <!-- crawler -->
+    <script src="/javascripts/crawler.js"></script>
+
+    <!-- search -->
+    <script src="/javascripts/search.js"></script>
+
+    <!-- hide & show -->
+    <script src="/javascripts/hideShow.js"></script>
+
+    <!-- Morris Charts JavaScript -->
+    <script src="/javascripts/plugins/morris/raphael.min.js"></script>
+    <script src="/javascripts/plugins/morris/morris.min.js"></script>
+    <script src="/javascripts/plugins/morris/morris-data.js"></script>
+
+    <!-- Flot Charts JavaScript -->
+    <!--[if lte IE 8]><script src="/javascripts/plugins/flot/excanvas.min.js"></script><![endif]-->
+    <script src="/javascripts/plugins/flot/jquery.flot.js"></script>
+    <script src="/javascripts/plugins/flot/jquery.flot.tooltip.min.js"></script>
+    <script src="/javascripts/plugins/flot/jquery.flot.resize.js"></script>
+    <script src="/javascripts/plugins/flot/jquery.flot.pie.js"></script>
+    <script src="/javascripts/plugins/flot/flot-data.js"></script>
+
+    <script type="text/javascript" src="/javascripts/__jquery.tablesorter.js"></script>
+    <script>
+    $("#crawler_table").tablesorter({sortList: [[0,0]]});
+    var refresh_timer = null;
+    refresh_timer = setInterval(function(){
+        if(window.location.pathname == '/'){
+            check_crawling_status();
+        }
+    }, 5000);
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,95 @@
+<% include ./header %>
+<!-- Page Content -->
+   <div class="container">
+     <div class="row">
+        <div class="col-lg-12 text-center">
+          <h1><%= title %></h1>
+          <p class="lead">Logs: <%= 1+20*(page-1) %>~ <% if(page != last_page){%> <%= 20*page %> <%}else{%> <%=total_logs%> <%}%> / <%= total_logs %>, page
+              <select id="page_change" onchange="window.location='logTable?page='+this.value">
+                  <% for(var i=1;i <= last_page;i++){ %>
+                      <option value="<%= i %>" <% if(page==i){ %> selected <%}%>><%=i%></option>
+                  <% } %>
+              </select>
+
+          </p>
+          </div>
+     </div>
+    <!-- /.row -->
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <div class="table-responsive">
+              <ul class=pagination>
+                <li><a href="./logTable?page=1"> << </a></li>
+                <li><a href="./logTable?page=<%=page-1%>"> Previous </a></li>
+                <% if(page > 2){ %>
+                  <li><a href="./logTable?page=<%= page-2 %>"><%= page-2 %></a></li>
+                <% } %>
+                <% if(page > 1){ %>
+                  <li><a href="./logTable?page=<%= page-1 %>"><%= page-1 %></a></li>
+                <% } %>
+                <li><a href="./logTable?page=<%=page%>"><u><%= page %></u></a></li>
+                <% if(page + 1 <= last_page){ %>
+                  <li><a href="./logTable?page=<%= page+1 %>"><%= page+1 %></a></li>
+                <% } %>
+                <% if(page + 2 <= last_page){ %>
+                  <li><a href="./logTable?page=<%= page+2 %>"><%= page+2 %></a></li>
+                <% } %>
+                <li><a href="./logTable?page=<%=page+1%>"> Next </a></li>
+                <li><a href="./logTable?page=<%=last_page%>"> >> </a></li>
+            </ul>
+
+           <table class="table table-bordered table-hover table-striped">
+            <thead>
+              <tr>
+                  <th>board_name</th>
+                  <th>limit_type</th>
+                  <th>limit_number</th>
+                  <th>last_updatetime</th>
+                  <th>last_update</th>
+                  <th>info</th>
+              </tr>
+            </thead>
+            <tbody>
+              <% for(var i= 0; i< logtable.length; i++){ %>
+              <tr id="log_<%= i %>">
+                  <td id="board_name_<%= i %>"> <%= logtable[i].board_name %></td>
+                  <td id="limit_type_<%= i %>"> <%= logtable[i].setting.limit_type %></td>
+                  <td id="limit_number_<%= i %>"> <%= logtable[i].setting.limit_number %></td>
+                  <td id="last_updatetime_<%= i %>"> <%= logtable[i].last_updatetime %></td>
+                  <td id="last_update_<%= i %>"> <%= logtable[i].last_update %></td>
+                  <td id="info_<%= i %>"> <%- logtable[i].info -%> </td>
+              </tr>
+              <% } %>
+            </tbody>
+
+          </table>
+
+          <ul class=pagination>
+            <li><a href="./logTable?page=1"> << </a></li>
+            <li><a href="./logTable?page=<%=page-1%>"> Previous </a></li>
+            <% if(page > 2){ %>
+              <li><a href="./logTable?page=<%= page-2 %>"><%= page-2 %></a></li>
+            <% } %>
+            <% if(page > 1){ %>
+              <li><a href="./logTable?page=<%= page-1 %>"><%= page-1 %></a></li>
+            <% } %>
+            <li><a href="./logTable?page=<%=page%>"><u><%= page %></u></a></li>
+            <% if(page + 1 <= last_page){ %>
+              <li><a href="./logTable?page=<%= page+1 %>"><%= page+1 %></a></li>
+            <% } %>
+            <% if(page + 2 <= last_page){ %>
+              <li><a href="./logTable?page=<%= page+2 %>"><%= page+2 %></a></li>
+            <% } %>
+            <li><a href="./logTable?page=<%=page+1%>"> Next </a></li>
+            <li><a href="./logTable?page=<%=last_page%>"> >> </a></li>
+        </ul>
+
+          </div>
+        </div>
+      </div>
+    <!-- /.row -->
+
+  </div>
+<!-- /.container -->
+
+<% include ./footer %>

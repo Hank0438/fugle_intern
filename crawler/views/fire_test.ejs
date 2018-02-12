@@ -1,0 +1,28 @@
+<html>
+<head>
+  <script src="http://code.jquery.com/jquery-1.6.2.min.js"></script>
+</head>
+<body>
+
+<form>
+    <select id="board_name">
+        <option value="Stock">Stock</option>
+        <option value="NBA">NBA</option>
+        <option value="Gossiping">Gossiping</option>
+        <option value="Graduate">Graduate</option>
+    </select>
+    <input type="button" id="enter" value="Enter">
+</form>
+
+<script type="text/javascript">
+    $('#enter').click(function(){
+    $.ajax({
+         url: '/fire_test/ajax',
+         type: 'POST',
+         cache: false,
+         data: { board_name: $('#board_name').val()},
+      })
+   });
+</script>
+</body>
+</html>

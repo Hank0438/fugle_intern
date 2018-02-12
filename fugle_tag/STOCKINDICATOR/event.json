@@ -1,0 +1,25 @@
+{
+  "data" : {
+    "Records" : [{
+      "kinesis" : {
+        "data" : {
+          "symbol_id": "2330",
+          "name": "台積電",
+          "year": 2016,
+          "history": [
+            {
+              "date":"2016-08-14T16:00:00.000Z",
+              "FIbuy":12101571,
+              "FIsell":7480199,
+              "ITbuy":0,
+              "ITsell":113000,
+              "DLbuy":106000,
+              "DLsell":436000,
+              "total":4178372
+            }
+          ]
+        }
+      }
+    }]
+  }
+}

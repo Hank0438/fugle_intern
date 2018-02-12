@@ -1,0 +1,2402 @@
+[
+    {
+        "stock": "1216",
+        "name": "統一",
+        "historyVolatility": 0.22528782646927353,
+        "holdingReturn": -0.030909090909090997,
+        "details": [
+            {
+                "stock": "1216",
+                "limit": 0,
+                "cost": 178854,
+                "netValue": 159192,
+                "return_rate": -0.1099,
+                "success": 3
+            },
+            {
+                "stock": "1216",
+                "limit": 0.01,
+                "cost": 237337,
+                "netValue": 212256,
+                "return_rate": -0.1057,
+                "success": 4
+            },
+            {
+                "stock": "1216",
+                "limit": 0.03,
+                "cost": 237337,
+                "netValue": 212256,
+                "return_rate": -0.1057,
+                "success": 4
+            },
+            {
+                "stock": "1216",
+                "limit": 0.05,
+                "cost": 237337,
+                "netValue": 212256,
+                "return_rate": -0.1057,
+                "success": 4
+            },
+            {
+                "stock": "1216",
+                "limit": 0.07,
+                "cost": 237337,
+                "netValue": 212256,
+                "return_rate": -0.1057,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2454",
+        "name": "聯發科",
+        "historyVolatility": 0.34478995650891375,
+        "holdingReturn": -0.10671936758893286,
+        "details": [
+            {
+                "stock": "2454",
+                "limit": 0,
+                "cost": 682471,
+                "netValue": 675000,
+                "return_rate": -0.0109,
+                "success": 3
+            },
+            {
+                "stock": "2454",
+                "limit": 0.01,
+                "cost": 917806,
+                "netValue": 900000,
+                "return_rate": -0.0194,
+                "success": 4
+            },
+            {
+                "stock": "2454",
+                "limit": 0.03,
+                "cost": 917806,
+                "netValue": 900000,
+                "return_rate": -0.0194,
+                "success": 4
+            },
+            {
+                "stock": "2454",
+                "limit": 0.05,
+                "cost": 917806,
+                "netValue": 900000,
+                "return_rate": -0.0194,
+                "success": 4
+            },
+            {
+                "stock": "2454",
+                "limit": 0.07,
+                "cost": 917806,
+                "netValue": 900000,
+                "return_rate": -0.0194,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "3008",
+        "name": "大立光",
+        "historyVolatility": 0.45214473745158523,
+        "holdingReturn": 0.7523364485981308,
+        "details": [
+            {
+                "stock": "3008",
+                "limit": 0,
+                "cost": 5973501,
+                "netValue": 7466812,
+                "return_rate": 0.25,
+                "success": 2
+            },
+            {
+                "stock": "3008",
+                "limit": 0.01,
+                "cost": 5998536,
+                "netValue": 7466812,
+                "return_rate": 0.2448,
+                "success": 2
+            },
+            {
+                "stock": "3008",
+                "limit": 0.03,
+                "cost": 5998536,
+                "netValue": 7466812,
+                "return_rate": 0.2448,
+                "success": 2
+            },
+            {
+                "stock": "3008",
+                "limit": 0.05,
+                "cost": 11225975,
+                "netValue": 14933625,
+                "return_rate": 0.3303,
+                "success": 4
+            },
+            {
+                "stock": "3008",
+                "limit": 0.07,
+                "cost": 11266032,
+                "netValue": 14933625,
+                "return_rate": 0.3255,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2912",
+        "name": "統一超",
+        "historyVolatility": 0.23045560812370056,
+        "holdingReturn": 0.14392059553349879,
+        "details": [
+            {
+                "stock": "2912",
+                "limit": 0,
+                "cost": 504217,
+                "netValue": 458960,
+                "return_rate": -0.0898,
+                "success": 2
+            },
+            {
+                "stock": "2912",
+                "limit": 0.01,
+                "cost": 932326,
+                "netValue": 917920,
+                "return_rate": -0.0155,
+                "success": 4
+            },
+            {
+                "stock": "2912",
+                "limit": 0.03,
+                "cost": 933328,
+                "netValue": 917920,
+                "return_rate": -0.0165,
+                "success": 4
+            },
+            {
+                "stock": "2912",
+                "limit": 0.05,
+                "cost": 933328,
+                "netValue": 917920,
+                "return_rate": -0.0165,
+                "success": 4
+            },
+            {
+                "stock": "2912",
+                "limit": 0.07,
+                "cost": 933328,
+                "netValue": 917920,
+                "return_rate": -0.0165,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2474",
+        "name": "可成科技",
+        "historyVolatility": 0.4226147000392484,
+        "holdingReturn": -0.16341030195381878,
+        "details": [
+            {
+                "stock": "2474",
+                "limit": 0,
+                "cost": 727535,
+                "netValue": 703374,
+                "return_rate": -0.0332,
+                "success": 3
+            },
+            {
+                "stock": "2474",
+                "limit": 0.01,
+                "cost": 729538,
+                "netValue": 703374,
+                "return_rate": -0.0359,
+                "success": 3
+            },
+            {
+                "stock": "2474",
+                "limit": 0.03,
+                "cost": 966875,
+                "netValue": 937832,
+                "return_rate": -0.03,
+                "success": 4
+            },
+            {
+                "stock": "2474",
+                "limit": 0.05,
+                "cost": 966875,
+                "netValue": 937832,
+                "return_rate": -0.03,
+                "success": 4
+            },
+            {
+                "stock": "2474",
+                "limit": 0.07,
+                "cost": 966875,
+                "netValue": 937832,
+                "return_rate": -0.03,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2308",
+        "name": "台達電",
+        "historyVolatility": 0.27653053661760657,
+        "holdingReturn": -0.0031746031746031633,
+        "details": [
+            {
+                "stock": "2308",
+                "limit": 0,
+                "cost": 472172,
+                "netValue": 468916,
+                "return_rate": -0.0069,
+                "success": 3
+            },
+            {
+                "stock": "2308",
+                "limit": 0.01,
+                "cost": 616877,
+                "netValue": 625221,
+                "return_rate": 0.0135,
+                "success": 4
+            },
+            {
+                "stock": "2308",
+                "limit": 0.03,
+                "cost": 617378,
+                "netValue": 625221,
+                "return_rate": 0.0127,
+                "success": 4
+            },
+            {
+                "stock": "2308",
+                "limit": 0.05,
+                "cost": 617378,
+                "netValue": 625221,
+                "return_rate": 0.0127,
+                "success": 4
+            },
+            {
+                "stock": "2308",
+                "limit": 0.07,
+                "cost": 617378,
+                "netValue": 625221,
+                "return_rate": 0.0127,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2880",
+        "name": "華南金",
+        "historyVolatility": 0.1751170504968579,
+        "holdingReturn": 0.08637873754152836,
+        "details": [
+            {
+                "stock": "2880",
+                "limit": 0,
+                "cost": 63541,
+                "netValue": 65111,
+                "return_rate": 0.0247,
+                "success": 4
+            },
+            {
+                "stock": "2880",
+                "limit": 0.01,
+                "cost": 63591,
+                "netValue": 65111,
+                "return_rate": 0.0239,
+                "success": 4
+            },
+            {
+                "stock": "2880",
+                "limit": 0.03,
+                "cost": 63591,
+                "netValue": 65111,
+                "return_rate": 0.0239,
+                "success": 4
+            },
+            {
+                "stock": "2880",
+                "limit": 0.05,
+                "cost": 63591,
+                "netValue": 65111,
+                "return_rate": 0.0239,
+                "success": 4
+            },
+            {
+                "stock": "2880",
+                "limit": 0.07,
+                "cost": 63591,
+                "netValue": 65111,
+                "return_rate": 0.0239,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2303",
+        "name": "聯電",
+        "historyVolatility": 0.2132925361721049,
+        "holdingReturn": -0.0423728813559322,
+        "details": [
+            {
+                "stock": "2303",
+                "limit": 0,
+                "cost": 48130,
+                "netValue": 45000,
+                "return_rate": -0.065,
+                "success": 4
+            },
+            {
+                "stock": "2303",
+                "limit": 0.01,
+                "cost": 48230,
+                "netValue": 45000,
+                "return_rate": -0.067,
+                "success": 4
+            },
+            {
+                "stock": "2303",
+                "limit": 0.03,
+                "cost": 48230,
+                "netValue": 45000,
+                "return_rate": -0.067,
+                "success": 4
+            },
+            {
+                "stock": "2303",
+                "limit": 0.05,
+                "cost": 48230,
+                "netValue": 45000,
+                "return_rate": -0.067,
+                "success": 4
+            },
+            {
+                "stock": "2303",
+                "limit": 0.07,
+                "cost": 48230,
+                "netValue": 45000,
+                "return_rate": -0.067,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2311",
+        "name": "日月光",
+        "historyVolatility": 0.2883647463519658,
+        "holdingReturn": -0.05633802816901412,
+        "details": [
+            {
+                "stock": "2311",
+                "limit": 0,
+                "cost": 143655,
+                "netValue": 133407,
+                "return_rate": -0.0713,
+                "success": 4
+            },
+            {
+                "stock": "2311",
+                "limit": 0.01,
+                "cost": 143755,
+                "netValue": 133407,
+                "return_rate": -0.072,
+                "success": 4
+            },
+            {
+                "stock": "2311",
+                "limit": 0.03,
+                "cost": 143755,
+                "netValue": 133407,
+                "return_rate": -0.072,
+                "success": 4
+            },
+            {
+                "stock": "2311",
+                "limit": 0.05,
+                "cost": 143755,
+                "netValue": 133407,
+                "return_rate": -0.072,
+                "success": 4
+            },
+            {
+                "stock": "2311",
+                "limit": 0.07,
+                "cost": 143755,
+                "netValue": 133407,
+                "return_rate": -0.072,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2207",
+        "name": "和泰汽車",
+        "historyVolatility": 0.26632323790605794,
+        "holdingReturn": -0.035809018567639295,
+        "details": [
+            {
+                "stock": "2207",
+                "limit": 0,
+                "cost": 1371451,
+                "netValue": 1447566,
+                "return_rate": 0.0555,
+                "success": 4
+            },
+            {
+                "stock": "2207",
+                "limit": 0.01,
+                "cost": 1375457,
+                "netValue": 1447566,
+                "return_rate": 0.0524,
+                "success": 4
+            },
+            {
+                "stock": "2207",
+                "limit": 0.03,
+                "cost": 1375958,
+                "netValue": 1447566,
+                "return_rate": 0.052,
+                "success": 4
+            },
+            {
+                "stock": "2207",
+                "limit": 0.05,
+                "cost": 1375958,
+                "netValue": 1447566,
+                "return_rate": 0.052,
+                "success": 4
+            },
+            {
+                "stock": "2207",
+                "limit": 0.07,
+                "cost": 1375958,
+                "netValue": 1447566,
+                "return_rate": 0.052,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "1402",
+        "name": "遠東新",
+        "historyVolatility": 0.2102679548272478,
+        "holdingReturn": -0.048828125,
+        "details": [
+            {
+                "stock": "1402",
+                "limit": 0,
+                "cost": 97538,
+                "netValue": 96969,
+                "return_rate": -0.0058,
+                "success": 4
+            },
+            {
+                "stock": "1402",
+                "limit": 0.01,
+                "cost": 97839,
+                "netValue": 96969,
+                "return_rate": -0.0089,
+                "success": 4
+            },
+            {
+                "stock": "1402",
+                "limit": 0.03,
+                "cost": 97839,
+                "netValue": 96969,
+                "return_rate": -0.0089,
+                "success": 4
+            },
+            {
+                "stock": "1402",
+                "limit": 0.05,
+                "cost": 97839,
+                "netValue": 96969,
+                "return_rate": -0.0089,
+                "success": 4
+            },
+            {
+                "stock": "1402",
+                "limit": 0.07,
+                "cost": 97839,
+                "netValue": 96969,
+                "return_rate": -0.0089,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2884",
+        "name": "玉山金控",
+        "historyVolatility": 0.2235873539972801,
+        "holdingReturn": -0.034031413612565564,
+        "details": [
+            {
+                "stock": "2884",
+                "limit": 0,
+                "cost": 71552,
+                "netValue": 73474,
+                "return_rate": 0.0269,
+                "success": 4
+            },
+            {
+                "stock": "2884",
+                "limit": 0.01,
+                "cost": 71802,
+                "netValue": 73474,
+                "return_rate": 0.0233,
+                "success": 4
+            },
+            {
+                "stock": "2884",
+                "limit": 0.03,
+                "cost": 71802,
+                "netValue": 73474,
+                "return_rate": 0.0233,
+                "success": 4
+            },
+            {
+                "stock": "2884",
+                "limit": 0.05,
+                "cost": 71802,
+                "netValue": 73474,
+                "return_rate": 0.0233,
+                "success": 4
+            },
+            {
+                "stock": "2884",
+                "limit": 0.07,
+                "cost": 71802,
+                "netValue": 73474,
+                "return_rate": 0.0233,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2885",
+        "name": "元大金",
+        "historyVolatility": 0.23014400864758955,
+        "holdingReturn": 0,
+        "details": [
+            {
+                "stock": "2885",
+                "limit": 0,
+                "cost": 43280,
+                "netValue": 47788,
+                "return_rate": 0.1042,
+                "success": 4
+            },
+            {
+                "stock": "2885",
+                "limit": 0.01,
+                "cost": 43380,
+                "netValue": 47788,
+                "return_rate": 0.1016,
+                "success": 4
+            },
+            {
+                "stock": "2885",
+                "limit": 0.03,
+                "cost": 43380,
+                "netValue": 47788,
+                "return_rate": 0.1016,
+                "success": 4
+            },
+            {
+                "stock": "2885",
+                "limit": 0.05,
+                "cost": 43380,
+                "netValue": 47788,
+                "return_rate": 0.1016,
+                "success": 4
+            },
+            {
+                "stock": "2885",
+                "limit": 0.07,
+                "cost": 43380,
+                "netValue": 47788,
+                "return_rate": 0.1016,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "1326",
+        "name": "台化",
+        "historyVolatility": 0.22427046058909722,
+        "holdingReturn": 0.4204379562043796,
+        "details": [
+            {
+                "stock": "1326",
+                "limit": 0,
+                "cost": 324762,
+                "netValue": 387477,
+                "return_rate": 0.1931,
+                "success": 4
+            },
+            {
+                "stock": "1326",
+                "limit": 0.01,
+                "cost": 324862,
+                "netValue": 387477,
+                "return_rate": 0.1927,
+                "success": 4
+            },
+            {
+                "stock": "1326",
+                "limit": 0.03,
+                "cost": 324862,
+                "netValue": 387477,
+                "return_rate": 0.1927,
+                "success": 4
+            },
+            {
+                "stock": "1326",
+                "limit": 0.05,
+                "cost": 324862,
+                "netValue": 387477,
+                "return_rate": 0.1927,
+                "success": 4
+            },
+            {
+                "stock": "1326",
+                "limit": 0.07,
+                "cost": 324862,
+                "netValue": 387477,
+                "return_rate": 0.1927,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2357",
+        "name": "華碩",
+        "historyVolatility": 0.21308273255666968,
+        "holdingReturn": -0.003759398496240629,
+        "details": [
+            {
+                "stock": "2357",
+                "limit": 0,
+                "cost": 1118592,
+                "netValue": 1055309,
+                "return_rate": -0.0566,
+                "success": 4
+            },
+            {
+                "stock": "2357",
+                "limit": 0.01,
+                "cost": 1122098,
+                "netValue": 1055309,
+                "return_rate": -0.0595,
+                "success": 4
+            },
+            {
+                "stock": "2357",
+                "limit": 0.03,
+                "cost": 1122098,
+                "netValue": 1055309,
+                "return_rate": -0.0595,
+                "success": 4
+            },
+            {
+                "stock": "2357",
+                "limit": 0.05,
+                "cost": 1122098,
+                "netValue": 1055309,
+                "return_rate": -0.0595,
+                "success": 4
+            },
+            {
+                "stock": "2357",
+                "limit": 0.07,
+                "cost": 1122098,
+                "netValue": 1055309,
+                "return_rate": -0.0595,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2002",
+        "name": "中鋼",
+        "historyVolatility": 0.23229211942771438,
+        "holdingReturn": 0.4896755162241888,
+        "details": [
+            {
+                "stock": "2002",
+                "limit": 0,
+                "cost": 84520,
+                "netValue": 100553,
+                "return_rate": 0.1897,
+                "success": 4
+            },
+            {
+                "stock": "2002",
+                "limit": 0.01,
+                "cost": 84570,
+                "netValue": 100553,
+                "return_rate": 0.189,
+                "success": 4
+            },
+            {
+                "stock": "2002",
+                "limit": 0.03,
+                "cost": 84570,
+                "netValue": 100553,
+                "return_rate": 0.189,
+                "success": 4
+            },
+            {
+                "stock": "2002",
+                "limit": 0.05,
+                "cost": 84570,
+                "netValue": 100553,
+                "return_rate": 0.189,
+                "success": 4
+            },
+            {
+                "stock": "2002",
+                "limit": 0.07,
+                "cost": 84570,
+                "netValue": 100553,
+                "return_rate": 0.189,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2881",
+        "name": "富邦金",
+        "historyVolatility": 0.25735709005764323,
+        "holdingReturn": 0.15125136017410212,
+        "details": [
+            {
+                "stock": "2881",
+                "limit": 0,
+                "cost": 83669,
+                "netValue": 105332,
+                "return_rate": 0.2589,
+                "success": 2
+            },
+            {
+                "stock": "2881",
+                "limit": 0.01,
+                "cost": 162833,
+                "netValue": 210663,
+                "return_rate": 0.2937,
+                "success": 4
+            },
+            {
+                "stock": "2881",
+                "limit": 0.03,
+                "cost": 162833,
+                "netValue": 210663,
+                "return_rate": 0.2937,
+                "success": 4
+            },
+            {
+                "stock": "2881",
+                "limit": 0.05,
+                "cost": 162833,
+                "netValue": 210663,
+                "return_rate": 0.2937,
+                "success": 4
+            },
+            {
+                "stock": "2881",
+                "limit": 0.07,
+                "cost": 162833,
+                "netValue": 210663,
+                "return_rate": 0.2937,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2325",
+        "name": "矽品",
+        "historyVolatility": 0.24456024239541943,
+        "holdingReturn": -0.032653061224489854,
+        "details": [
+            {
+                "stock": "2325",
+                "limit": 0,
+                "cost": 199084,
+                "netValue": 188761,
+                "return_rate": -0.0519,
+                "success": 4
+            },
+            {
+                "stock": "2325",
+                "limit": 0.01,
+                "cost": 199084,
+                "netValue": 188761,
+                "return_rate": -0.0519,
+                "success": 4
+            },
+            {
+                "stock": "2325",
+                "limit": 0.03,
+                "cost": 199084,
+                "netValue": 188761,
+                "return_rate": -0.0519,
+                "success": 4
+            },
+            {
+                "stock": "2325",
+                "limit": 0.05,
+                "cost": 199084,
+                "netValue": 188761,
+                "return_rate": -0.0519,
+                "success": 4
+            },
+            {
+                "stock": "2325",
+                "limit": 0.07,
+                "cost": 199084,
+                "netValue": 188761,
+                "return_rate": -0.0519,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "3474",
+        "name": "華亞科",
+        "historyVolatility": 0.23526497440979624,
+        "holdingReturn": 0.34841628959276005,
+        "details": [
+            {
+                "stock": "3474",
+                "limit": 0,
+                "cost": 50172,
+                "netValue": 59336,
+                "return_rate": 0.1827,
+                "success": 2
+            },
+            {
+                "stock": "3474",
+                "limit": 0.01,
+                "cost": 76810,
+                "netValue": 89005,
+                "return_rate": 0.1588,
+                "success": 3
+            },
+            {
+                "stock": "3474",
+                "limit": 0.03,
+                "cost": 76810,
+                "netValue": 89005,
+                "return_rate": 0.1588,
+                "success": 3
+            },
+            {
+                "stock": "3474",
+                "limit": 0.05,
+                "cost": 76810,
+                "netValue": 89005,
+                "return_rate": 0.1588,
+                "success": 3
+            },
+            {
+                "stock": "3474",
+                "limit": 0.07,
+                "cost": 76810,
+                "netValue": 89005,
+                "return_rate": 0.1588,
+                "success": 3
+            }
+        ]
+    },
+    {
+        "stock": "2412",
+        "name": "中華電",
+        "historyVolatility": 0.13378764533096033,
+        "holdingReturn": 0.05102040816326525,
+        "details": [
+            {
+                "stock": "2412",
+                "limit": 0,
+                "cost": 444132,
+                "netValue": 410177,
+                "return_rate": -0.0765,
+                "success": 4
+            },
+            {
+                "stock": "2412",
+                "limit": 0.01,
+                "cost": 444633,
+                "netValue": 410177,
+                "return_rate": -0.0775,
+                "success": 4
+            },
+            {
+                "stock": "2412",
+                "limit": 0.03,
+                "cost": 444633,
+                "netValue": 410177,
+                "return_rate": -0.0775,
+                "success": 4
+            },
+            {
+                "stock": "2412",
+                "limit": 0.05,
+                "cost": 444633,
+                "netValue": 410177,
+                "return_rate": -0.0775,
+                "success": 4
+            },
+            {
+                "stock": "2412",
+                "limit": 0.07,
+                "cost": 444633,
+                "netValue": 410177,
+                "return_rate": -0.0775,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "3481",
+        "name": "群創光電",
+        "historyVolatility": 0.31616024805032505,
+        "holdingReturn": 0.21964097148891226,
+        "details": [
+            {
+                "stock": "3481",
+                "limit": 0,
+                "cost": 42160,
+                "netValue": 45995,
+                "return_rate": 0.091,
+                "success": 4
+            },
+            {
+                "stock": "3481",
+                "limit": 0.01,
+                "cost": 42180,
+                "netValue": 45995,
+                "return_rate": 0.0905,
+                "success": 4
+            },
+            {
+                "stock": "3481",
+                "limit": 0.03,
+                "cost": 42180,
+                "netValue": 45995,
+                "return_rate": 0.0905,
+                "success": 4
+            },
+            {
+                "stock": "3481",
+                "limit": 0.05,
+                "cost": 42180,
+                "netValue": 45995,
+                "return_rate": 0.0905,
+                "success": 4
+            },
+            {
+                "stock": "3481",
+                "limit": 0.07,
+                "cost": 42180,
+                "netValue": 45995,
+                "return_rate": 0.0905,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "6505",
+        "name": "台塑石化",
+        "historyVolatility": 0.25835585070865746,
+        "holdingReturn": 0.42207792207792205,
+        "details": [
+            {
+                "stock": "6505",
+                "limit": 0,
+                "cost": 358910,
+                "netValue": 436062,
+                "return_rate": 0.215,
+                "success": 4
+            },
+            {
+                "stock": "6505",
+                "limit": 0.01,
+                "cost": 360112,
+                "netValue": 436062,
+                "return_rate": 0.2109,
+                "success": 4
+            },
+            {
+                "stock": "6505",
+                "limit": 0.03,
+                "cost": 360112,
+                "netValue": 436062,
+                "return_rate": 0.2109,
+                "success": 4
+            },
+            {
+                "stock": "6505",
+                "limit": 0.05,
+                "cost": 360112,
+                "netValue": 436062,
+                "return_rate": 0.2109,
+                "success": 4
+            },
+            {
+                "stock": "6505",
+                "limit": 0.07,
+                "cost": 360112,
+                "netValue": 436062,
+                "return_rate": 0.2109,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "4938",
+        "name": "和碩",
+        "historyVolatility": 0.3557142271289181,
+        "holdingReturn": -0.003916449086161844,
+        "details": [
+            {
+                "stock": "4938",
+                "limit": 0,
+                "cost": 219912,
+                "netValue": 227887,
+                "return_rate": 0.0363,
+                "success": 3
+            },
+            {
+                "stock": "4938",
+                "limit": 0.01,
+                "cost": 294118,
+                "netValue": 303849,
+                "return_rate": 0.0331,
+                "success": 4
+            },
+            {
+                "stock": "4938",
+                "limit": 0.03,
+                "cost": 294218,
+                "netValue": 303849,
+                "return_rate": 0.0327,
+                "success": 4
+            },
+            {
+                "stock": "4938",
+                "limit": 0.05,
+                "cost": 294218,
+                "netValue": 303849,
+                "return_rate": 0.0327,
+                "success": 4
+            },
+            {
+                "stock": "4938",
+                "limit": 0.07,
+                "cost": 294218,
+                "netValue": 303849,
+                "return_rate": 0.0327,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2801",
+        "name": "彰化銀行",
+        "historyVolatility": 0.16864533067191947,
+        "holdingReturn": 0.09324758842443726,
+        "details": [
+            {
+                "stock": "2801",
+                "limit": 0,
+                "cost": 64593,
+                "netValue": 67699,
+                "return_rate": 0.0481,
+                "success": 4
+            },
+            {
+                "stock": "2801",
+                "limit": 0.01,
+                "cost": 64643,
+                "netValue": 67699,
+                "return_rate": 0.0473,
+                "success": 4
+            },
+            {
+                "stock": "2801",
+                "limit": 0.03,
+                "cost": 64643,
+                "netValue": 67699,
+                "return_rate": 0.0473,
+                "success": 4
+            },
+            {
+                "stock": "2801",
+                "limit": 0.05,
+                "cost": 64643,
+                "netValue": 67699,
+                "return_rate": 0.0473,
+                "success": 4
+            },
+            {
+                "stock": "2801",
+                "limit": 0.07,
+                "cost": 64643,
+                "netValue": 67699,
+                "return_rate": 0.0473,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "3045",
+        "name": "台灣大",
+        "historyVolatility": 0.15072865040774985,
+        "holdingReturn": 0.0607621009268795,
+        "details": [
+            {
+                "stock": "3045",
+                "limit": 0,
+                "cost": 321558,
+                "netValue": 307633,
+                "return_rate": -0.0433,
+                "success": 3
+            },
+            {
+                "stock": "3045",
+                "limit": 0.01,
+                "cost": 428210,
+                "netValue": 410177,
+                "return_rate": -0.0421,
+                "success": 4
+            },
+            {
+                "stock": "3045",
+                "limit": 0.03,
+                "cost": 428210,
+                "netValue": 410177,
+                "return_rate": -0.0421,
+                "success": 4
+            },
+            {
+                "stock": "3045",
+                "limit": 0.05,
+                "cost": 428210,
+                "netValue": 410177,
+                "return_rate": -0.0421,
+                "success": 4
+            },
+            {
+                "stock": "3045",
+                "limit": 0.07,
+                "cost": 428210,
+                "netValue": 410177,
+                "return_rate": -0.0421,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2890",
+        "name": "永豐金控",
+        "historyVolatility": 0.20894086226856162,
+        "holdingReturn": -0.025559105431309903,
+        "details": [
+            {
+                "stock": "2890",
+                "limit": 0,
+                "cost": 37450,
+                "netValue": 36438,
+                "return_rate": -0.027,
+                "success": 4
+            },
+            {
+                "stock": "2890",
+                "limit": 0.01,
+                "cost": 37520,
+                "netValue": 36438,
+                "return_rate": -0.0288,
+                "success": 4
+            },
+            {
+                "stock": "2890",
+                "limit": 0.03,
+                "cost": 37520,
+                "netValue": 36438,
+                "return_rate": -0.0288,
+                "success": 4
+            },
+            {
+                "stock": "2890",
+                "limit": 0.05,
+                "cost": 37520,
+                "netValue": 36438,
+                "return_rate": -0.0288,
+                "success": 4
+            },
+            {
+                "stock": "2890",
+                "limit": 0.07,
+                "cost": 37520,
+                "netValue": 36438,
+                "return_rate": -0.0288,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2408",
+        "name": "南亞科",
+        "historyVolatility": 0.33090529687612086,
+        "holdingReturn": 0.1073059360730595,
+        "details": [
+            {
+                "stock": "2408",
+                "limit": 0,
+                "cost": 120972,
+                "netValue": 144857,
+                "return_rate": 0.1974,
+                "success": 3
+            },
+            {
+                "stock": "2408",
+                "limit": 0.01,
+                "cost": 162030,
+                "netValue": 193142,
+                "return_rate": 0.192,
+                "success": 4
+            },
+            {
+                "stock": "2408",
+                "limit": 0.03,
+                "cost": 162181,
+                "netValue": 193142,
+                "return_rate": 0.1909,
+                "success": 4
+            },
+            {
+                "stock": "2408",
+                "limit": 0.05,
+                "cost": 162181,
+                "netValue": 193142,
+                "return_rate": 0.1909,
+                "success": 4
+            },
+            {
+                "stock": "2408",
+                "limit": 0.07,
+                "cost": 162181,
+                "netValue": 193142,
+                "return_rate": 0.1909,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2382",
+        "name": "廣達",
+        "historyVolatility": 0.2684781233431221,
+        "holdingReturn": 0.14864864864864868,
+        "details": [
+            {
+                "stock": "2382",
+                "limit": 0,
+                "cost": 170443,
+                "netValue": 177711,
+                "return_rate": 0.0426,
+                "success": 3
+            },
+            {
+                "stock": "2382",
+                "limit": 0.01,
+                "cost": 234534,
+                "netValue": 236947,
+                "return_rate": 0.0103,
+                "success": 4
+            },
+            {
+                "stock": "2382",
+                "limit": 0.03,
+                "cost": 234534,
+                "netValue": 236947,
+                "return_rate": 0.0103,
+                "success": 4
+            },
+            {
+                "stock": "2382",
+                "limit": 0.05,
+                "cost": 234534,
+                "netValue": 236947,
+                "return_rate": 0.0103,
+                "success": 4
+            },
+            {
+                "stock": "2382",
+                "limit": 0.07,
+                "cost": 234534,
+                "netValue": 236947,
+                "return_rate": 0.0103,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "1303",
+        "name": "南亞塑膠",
+        "historyVolatility": 0.19410085021403986,
+        "holdingReturn": 0.2526132404181185,
+        "details": [
+            {
+                "stock": "1303",
+                "limit": 0,
+                "cost": 181758,
+                "netValue": 214746,
+                "return_rate": 0.1815,
+                "success": 3
+            },
+            {
+                "stock": "1303",
+                "limit": 0.01,
+                "cost": 247051,
+                "netValue": 286327,
+                "return_rate": 0.159,
+                "success": 4
+            },
+            {
+                "stock": "1303",
+                "limit": 0.03,
+                "cost": 247051,
+                "netValue": 286327,
+                "return_rate": 0.159,
+                "success": 4
+            },
+            {
+                "stock": "1303",
+                "limit": 0.05,
+                "cost": 247051,
+                "netValue": 286327,
+                "return_rate": 0.159,
+                "success": 4
+            },
+            {
+                "stock": "1303",
+                "limit": 0.07,
+                "cost": 247051,
+                "netValue": 286327,
+                "return_rate": 0.159,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2886",
+        "name": "兆豐金",
+        "historyVolatility": 0.20099669880140783,
+        "holdingReturn": 0.11241217798594838,
+        "details": [
+            {
+                "stock": "2886",
+                "limit": 0,
+                "cost": 89328,
+                "netValue": 94580,
+                "return_rate": 0.0588,
+                "success": 4
+            },
+            {
+                "stock": "2886",
+                "limit": 0.01,
+                "cost": 89378,
+                "netValue": 94580,
+                "return_rate": 0.0582,
+                "success": 4
+            },
+            {
+                "stock": "2886",
+                "limit": 0.03,
+                "cost": 89378,
+                "netValue": 94580,
+                "return_rate": 0.0582,
+                "success": 4
+            },
+            {
+                "stock": "2886",
+                "limit": 0.05,
+                "cost": 89378,
+                "netValue": 94580,
+                "return_rate": 0.0582,
+                "success": 4
+            },
+            {
+                "stock": "2886",
+                "limit": 0.07,
+                "cost": 89378,
+                "netValue": 94580,
+                "return_rate": 0.0582,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2105",
+        "name": "正新",
+        "historyVolatility": 0.24178773801048886,
+        "holdingReturn": 0.14038461538461533,
+        "details": [
+            {
+                "stock": "2105",
+                "limit": 0,
+                "cost": 182159,
+                "netValue": 177112,
+                "return_rate": -0.0277,
+                "success": 3
+            },
+            {
+                "stock": "2105",
+                "limit": 0.01,
+                "cost": 250156,
+                "netValue": 236150,
+                "return_rate": -0.056,
+                "success": 4
+            },
+            {
+                "stock": "2105",
+                "limit": 0.03,
+                "cost": 250256,
+                "netValue": 236150,
+                "return_rate": -0.0564,
+                "success": 4
+            },
+            {
+                "stock": "2105",
+                "limit": 0.05,
+                "cost": 250256,
+                "netValue": 236150,
+                "return_rate": -0.0564,
+                "success": 4
+            },
+            {
+                "stock": "2105",
+                "limit": 0.07,
+                "cost": 250256,
+                "netValue": 236150,
+                "return_rate": -0.0564,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2882",
+        "name": "國泰金",
+        "historyVolatility": 0.2832407510904817,
+        "holdingReturn": 0.19047619047619047,
+        "details": [
+            {
+                "stock": "2882",
+                "limit": 0,
+                "cost": 113162,
+                "netValue": 149336,
+                "return_rate": 0.3197,
+                "success": 3
+            },
+            {
+                "stock": "2882",
+                "limit": 0.01,
+                "cost": 149313,
+                "netValue": 199115,
+                "return_rate": 0.3335,
+                "success": 4
+            },
+            {
+                "stock": "2882",
+                "limit": 0.03,
+                "cost": 149313,
+                "netValue": 199115,
+                "return_rate": 0.3335,
+                "success": 4
+            },
+            {
+                "stock": "2882",
+                "limit": 0.05,
+                "cost": 149313,
+                "netValue": 199115,
+                "return_rate": 0.3335,
+                "success": 4
+            },
+            {
+                "stock": "2882",
+                "limit": 0.07,
+                "cost": 149313,
+                "netValue": 199115,
+                "return_rate": 0.3335,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2887",
+        "name": "台新金控",
+        "historyVolatility": 0.21537248064365924,
+        "holdingReturn": 0.057777777777777706,
+        "details": [
+            {
+                "stock": "2887",
+                "limit": 0,
+                "cost": 45830,
+                "netValue": 47389,
+                "return_rate": 0.034,
+                "success": 4
+            },
+            {
+                "stock": "2887",
+                "limit": 0.01,
+                "cost": 45930,
+                "netValue": 47389,
+                "return_rate": 0.0318,
+                "success": 4
+            },
+            {
+                "stock": "2887",
+                "limit": 0.03,
+                "cost": 45930,
+                "netValue": 47389,
+                "return_rate": 0.0318,
+                "success": 4
+            },
+            {
+                "stock": "2887",
+                "limit": 0.05,
+                "cost": 45930,
+                "netValue": 47389,
+                "return_rate": 0.0318,
+                "success": 4
+            },
+            {
+                "stock": "2887",
+                "limit": 0.07,
+                "cost": 45930,
+                "netValue": 47389,
+                "return_rate": 0.0318,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2409",
+        "name": "友達",
+        "historyVolatility": 0.3320066455215773,
+        "holdingReturn": 0.3522727272727273,
+        "details": [
+            {
+                "stock": "2409",
+                "limit": 0,
+                "cost": 42130,
+                "netValue": 47389,
+                "return_rate": 0.1248,
+                "success": 4
+            },
+            {
+                "stock": "2409",
+                "limit": 0.01,
+                "cost": 42180,
+                "netValue": 47389,
+                "return_rate": 0.1235,
+                "success": 4
+            },
+            {
+                "stock": "2409",
+                "limit": 0.03,
+                "cost": 42180,
+                "netValue": 47389,
+                "return_rate": 0.1235,
+                "success": 4
+            },
+            {
+                "stock": "2409",
+                "limit": 0.05,
+                "cost": 42180,
+                "netValue": 47389,
+                "return_rate": 0.1235,
+                "success": 4
+            },
+            {
+                "stock": "2409",
+                "limit": 0.07,
+                "cost": 42180,
+                "netValue": 47389,
+                "return_rate": 0.1235,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "9904",
+        "name": "寶成工業",
+        "historyVolatility": 0.2933320947351226,
+        "holdingReturn": -0.008610086100861003,
+        "details": [
+            {
+                "stock": "9904",
+                "limit": 0,
+                "cost": 168540,
+                "netValue": 160486,
+                "return_rate": -0.0478,
+                "success": 4
+            },
+            {
+                "stock": "9904",
+                "limit": 0.01,
+                "cost": 169391,
+                "netValue": 160486,
+                "return_rate": -0.0526,
+                "success": 4
+            },
+            {
+                "stock": "9904",
+                "limit": 0.03,
+                "cost": 169391,
+                "netValue": 160486,
+                "return_rate": -0.0526,
+                "success": 4
+            },
+            {
+                "stock": "9904",
+                "limit": 0.05,
+                "cost": 169391,
+                "netValue": 160486,
+                "return_rate": -0.0526,
+                "success": 4
+            },
+            {
+                "stock": "9904",
+                "limit": 0.07,
+                "cost": 169391,
+                "netValue": 160486,
+                "return_rate": -0.0526,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "1301",
+        "name": "台塑",
+        "historyVolatility": 0.18290765141841442,
+        "holdingReturn": 0.2573839662447259,
+        "details": [
+            {
+                "stock": "1301",
+                "limit": 0,
+                "cost": 314147,
+                "netValue": 356017,
+                "return_rate": 0.1333,
+                "success": 4
+            },
+            {
+                "stock": "1301",
+                "limit": 0.01,
+                "cost": 314347,
+                "netValue": 356017,
+                "return_rate": 0.1326,
+                "success": 4
+            },
+            {
+                "stock": "1301",
+                "limit": 0.03,
+                "cost": 314347,
+                "netValue": 356017,
+                "return_rate": 0.1326,
+                "success": 4
+            },
+            {
+                "stock": "1301",
+                "limit": 0.05,
+                "cost": 314347,
+                "netValue": 356017,
+                "return_rate": 0.1326,
+                "success": 4
+            },
+            {
+                "stock": "1301",
+                "limit": 0.07,
+                "cost": 314347,
+                "netValue": 356017,
+                "return_rate": 0.1326,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2354",
+        "name": "鴻準",
+        "historyVolatility": 0.2759622868961728,
+        "holdingReturn": 0.2618343195266273,
+        "details": [
+            {
+                "stock": "2354",
+                "limit": 0,
+                "cost": 299226,
+                "netValue": 339690,
+                "return_rate": 0.1352,
+                "success": 4
+            },
+            {
+                "stock": "2354",
+                "limit": 0.01,
+                "cost": 300027,
+                "netValue": 339690,
+                "return_rate": 0.1322,
+                "success": 4
+            },
+            {
+                "stock": "2354",
+                "limit": 0.03,
+                "cost": 300828,
+                "netValue": 339690,
+                "return_rate": 0.1292,
+                "success": 4
+            },
+            {
+                "stock": "2354",
+                "limit": 0.05,
+                "cost": 300828,
+                "netValue": 339690,
+                "return_rate": 0.1292,
+                "success": 4
+            },
+            {
+                "stock": "2354",
+                "limit": 0.07,
+                "cost": 300828,
+                "netValue": 339690,
+                "return_rate": 0.1292,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2324",
+        "name": "仁寶電腦",
+        "historyVolatility": 0.22119199155105437,
+        "holdingReturn": -0.013586956521739135,
+        "details": [
+            {
+                "stock": "2324",
+                "limit": 0,
+                "cost": 57982,
+                "netValue": 54209,
+                "return_rate": -0.0651,
+                "success": 3
+            },
+            {
+                "stock": "2324",
+                "limit": 0.01,
+                "cost": 78461,
+                "netValue": 72279,
+                "return_rate": -0.0788,
+                "success": 4
+            },
+            {
+                "stock": "2324",
+                "limit": 0.03,
+                "cost": 78512,
+                "netValue": 72279,
+                "return_rate": -0.0794,
+                "success": 4
+            },
+            {
+                "stock": "2324",
+                "limit": 0.05,
+                "cost": 78512,
+                "netValue": 72279,
+                "return_rate": -0.0794,
+                "success": 4
+            },
+            {
+                "stock": "2324",
+                "limit": 0.07,
+                "cost": 78512,
+                "netValue": 72279,
+                "return_rate": -0.0794,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "5880",
+        "name": "合庫金",
+        "historyVolatility": 0.13717700958517803,
+        "holdingReturn": 0.029304029304029422,
+        "details": [
+            {
+                "stock": "5880",
+                "limit": 0,
+                "cost": 55831,
+                "netValue": 55951,
+                "return_rate": 0.0022,
+                "success": 4
+            },
+            {
+                "stock": "5880",
+                "limit": 0.01,
+                "cost": 55932,
+                "netValue": 55951,
+                "return_rate": 0.0003,
+                "success": 4
+            },
+            {
+                "stock": "5880",
+                "limit": 0.03,
+                "cost": 55932,
+                "netValue": 55951,
+                "return_rate": 0.0003,
+                "success": 4
+            },
+            {
+                "stock": "5880",
+                "limit": 0.05,
+                "cost": 55932,
+                "netValue": 55951,
+                "return_rate": 0.0003,
+                "success": 4
+            },
+            {
+                "stock": "5880",
+                "limit": 0.07,
+                "cost": 55932,
+                "netValue": 55951,
+                "return_rate": 0.0003,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "1101",
+        "name": "台泥",
+        "historyVolatility": 0.27618350495594185,
+        "holdingReturn": 0.3375912408759125,
+        "details": [
+            {
+                "stock": "1101",
+                "limit": 0,
+                "cost": 130686,
+                "netValue": 145951,
+                "return_rate": 0.1168,
+                "success": 4
+            },
+            {
+                "stock": "1101",
+                "limit": 0.01,
+                "cost": 130986,
+                "netValue": 145951,
+                "return_rate": 0.1143,
+                "success": 4
+            },
+            {
+                "stock": "1101",
+                "limit": 0.03,
+                "cost": 130986,
+                "netValue": 145951,
+                "return_rate": 0.1143,
+                "success": 4
+            },
+            {
+                "stock": "1101",
+                "limit": 0.05,
+                "cost": 130986,
+                "netValue": 145951,
+                "return_rate": 0.1143,
+                "success": 4
+            },
+            {
+                "stock": "1101",
+                "limit": 0.07,
+                "cost": 130986,
+                "netValue": 145951,
+                "return_rate": 0.1143,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2301",
+        "name": "光寶科技",
+        "historyVolatility": 0.3205281248188953,
+        "holdingReturn": 0.50920245398773,
+        "details": [
+            {
+                "stock": "2301",
+                "limit": 0,
+                "cost": 164384,
+                "netValue": 195930,
+                "return_rate": 0.1919,
+                "success": 4
+            },
+            {
+                "stock": "2301",
+                "limit": 0.01,
+                "cost": 164434,
+                "netValue": 195930,
+                "return_rate": 0.1915,
+                "success": 4
+            },
+            {
+                "stock": "2301",
+                "limit": 0.03,
+                "cost": 164434,
+                "netValue": 195930,
+                "return_rate": 0.1915,
+                "success": 4
+            },
+            {
+                "stock": "2301",
+                "limit": 0.05,
+                "cost": 164434,
+                "netValue": 195930,
+                "return_rate": 0.1915,
+                "success": 4
+            },
+            {
+                "stock": "2301",
+                "limit": 0.07,
+                "cost": 164434,
+                "netValue": 195930,
+                "return_rate": 0.1915,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "1102",
+        "name": "亞泥",
+        "historyVolatility": 0.2593254081359714,
+        "holdingReturn": 0.02607076350093096,
+        "details": [
+            {
+                "stock": "1102",
+                "limit": 0,
+                "cost": 110907,
+                "netValue": 109712,
+                "return_rate": -0.0108,
+                "success": 4
+            },
+            {
+                "stock": "1102",
+                "limit": 0.01,
+                "cost": 110907,
+                "netValue": 109712,
+                "return_rate": -0.0108,
+                "success": 4
+            },
+            {
+                "stock": "1102",
+                "limit": 0.03,
+                "cost": 110907,
+                "netValue": 109712,
+                "return_rate": -0.0108,
+                "success": 4
+            },
+            {
+                "stock": "1102",
+                "limit": 0.05,
+                "cost": 110907,
+                "netValue": 109712,
+                "return_rate": -0.0108,
+                "success": 4
+            },
+            {
+                "stock": "1102",
+                "limit": 0.07,
+                "cost": 110907,
+                "netValue": 109712,
+                "return_rate": -0.0108,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2330",
+        "name": "台積電",
+        "historyVolatility": 0.20966667000955097,
+        "holdingReturn": 0.28919860627177707,
+        "details": [
+            {
+                "stock": "2330",
+                "limit": 0,
+                "cost": 512229,
+                "netValue": 552544,
+                "return_rate": 0.0787,
+                "success": 3
+            },
+            {
+                "stock": "2330",
+                "limit": 0.01,
+                "cost": 512229,
+                "netValue": 552544,
+                "return_rate": 0.0787,
+                "success": 3
+            },
+            {
+                "stock": "2330",
+                "limit": 0.03,
+                "cost": 512229,
+                "netValue": 552544,
+                "return_rate": 0.0787,
+                "success": 3
+            },
+            {
+                "stock": "2330",
+                "limit": 0.05,
+                "cost": 649925,
+                "netValue": 736725,
+                "return_rate": 0.1336,
+                "success": 4
+            },
+            {
+                "stock": "2330",
+                "limit": 0.07,
+                "cost": 649925,
+                "netValue": 736725,
+                "return_rate": 0.1336,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "1476",
+        "name": "儒鴻",
+        "historyVolatility": 0.45906182887152325,
+        "holdingReturn": -0.217741935483871,
+        "details": [
+            {
+                "stock": "1476",
+                "limit": 0,
+                "cost": 1134114,
+                "netValue": 1013994,
+                "return_rate": -0.1059,
+                "success": 3
+            },
+            {
+                "stock": "1476",
+                "limit": 0.01,
+                "cost": 1138620,
+                "netValue": 1013994,
+                "return_rate": -0.1095,
+                "success": 3
+            },
+            {
+                "stock": "1476",
+                "limit": 0.03,
+                "cost": 1139121,
+                "netValue": 1013994,
+                "return_rate": -0.1098,
+                "success": 3
+            },
+            {
+                "stock": "1476",
+                "limit": 0.05,
+                "cost": 1139121,
+                "netValue": 1013994,
+                "return_rate": -0.1098,
+                "success": 3
+            },
+            {
+                "stock": "1476",
+                "limit": 0.07,
+                "cost": 1464584,
+                "netValue": 1351991,
+                "return_rate": -0.0769,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2892",
+        "name": "第一金控",
+        "historyVolatility": 0.14623082134867993,
+        "holdingReturn": 0.15050167224080258,
+        "details": [
+            {
+                "stock": "2892",
+                "limit": 0,
+                "cost": 64191,
+                "netValue": 68496,
+                "return_rate": 0.0671,
+                "success": 4
+            },
+            {
+                "stock": "2892",
+                "limit": 0.01,
+                "cost": 64241,
+                "netValue": 68496,
+                "return_rate": 0.0662,
+                "success": 4
+            },
+            {
+                "stock": "2892",
+                "limit": 0.03,
+                "cost": 64241,
+                "netValue": 68496,
+                "return_rate": 0.0662,
+                "success": 4
+            },
+            {
+                "stock": "2892",
+                "limit": 0.05,
+                "cost": 64241,
+                "netValue": 68496,
+                "return_rate": 0.0662,
+                "success": 4
+            },
+            {
+                "stock": "2892",
+                "limit": 0.07,
+                "cost": 64241,
+                "netValue": 68496,
+                "return_rate": 0.0662,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "4904",
+        "name": "遠傳",
+        "historyVolatility": 0.15747254204317576,
+        "holdingReturn": 0.08814589665653494,
+        "details": [
+            {
+                "stock": "4904",
+                "limit": 0,
+                "cost": 289311,
+                "netValue": 285133,
+                "return_rate": -0.0144,
+                "success": 4
+            },
+            {
+                "stock": "4904",
+                "limit": 0.01,
+                "cost": 289812,
+                "netValue": 285133,
+                "return_rate": -0.0161,
+                "success": 4
+            },
+            {
+                "stock": "4904",
+                "limit": 0.03,
+                "cost": 289812,
+                "netValue": 285133,
+                "return_rate": -0.0161,
+                "success": 4
+            },
+            {
+                "stock": "4904",
+                "limit": 0.05,
+                "cost": 289812,
+                "netValue": 285133,
+                "return_rate": -0.0161,
+                "success": 4
+            },
+            {
+                "stock": "4904",
+                "limit": 0.07,
+                "cost": 289812,
+                "netValue": 285133,
+                "return_rate": -0.0161,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2883",
+        "name": "開發金",
+        "historyVolatility": 0.20125962131261443,
+        "holdingReturn": 0.009987515605493158,
+        "details": [
+            {
+                "stock": "2883",
+                "limit": 0,
+                "cost": 31480,
+                "netValue": 32217,
+                "return_rate": 0.0234,
+                "success": 4
+            },
+            {
+                "stock": "2883",
+                "limit": 0.01,
+                "cost": 31560,
+                "netValue": 32217,
+                "return_rate": 0.0208,
+                "success": 4
+            },
+            {
+                "stock": "2883",
+                "limit": 0.03,
+                "cost": 31560,
+                "netValue": 32217,
+                "return_rate": 0.0208,
+                "success": 4
+            },
+            {
+                "stock": "2883",
+                "limit": 0.05,
+                "cost": 31560,
+                "netValue": 32217,
+                "return_rate": 0.0208,
+                "success": 4
+            },
+            {
+                "stock": "2883",
+                "limit": 0.07,
+                "cost": 31560,
+                "netValue": 32217,
+                "return_rate": 0.0208,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2395",
+        "name": "研華",
+        "historyVolatility": 0.25909908490294636,
+        "holdingReturn": 0.20192307692307687,
+        "details": [
+            {
+                "stock": "2395",
+                "limit": 0,
+                "cost": 946346,
+                "netValue": 995575,
+                "return_rate": 0.052,
+                "success": 4
+            },
+            {
+                "stock": "2395",
+                "limit": 0.01,
+                "cost": 947348,
+                "netValue": 995575,
+                "return_rate": 0.0509,
+                "success": 4
+            },
+            {
+                "stock": "2395",
+                "limit": 0.03,
+                "cost": 947348,
+                "netValue": 995575,
+                "return_rate": 0.0509,
+                "success": 4
+            },
+            {
+                "stock": "2395",
+                "limit": 0.05,
+                "cost": 947348,
+                "netValue": 995575,
+                "return_rate": 0.0509,
+                "success": 4
+            },
+            {
+                "stock": "2395",
+                "limit": 0.07,
+                "cost": 947348,
+                "netValue": 995575,
+                "return_rate": 0.0509,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2891",
+        "name": "中信金",
+        "historyVolatility": 0.20803612539181565,
+        "holdingReturn": 0.09090909090909083,
+        "details": [
+            {
+                "stock": "2891",
+                "limit": 0,
+                "cost": 66694,
+                "netValue": 71681,
+                "return_rate": 0.0748,
+                "success": 4
+            },
+            {
+                "stock": "2891",
+                "limit": 0.01,
+                "cost": 66744,
+                "netValue": 71681,
+                "return_rate": 0.074,
+                "success": 4
+            },
+            {
+                "stock": "2891",
+                "limit": 0.03,
+                "cost": 66744,
+                "netValue": 71681,
+                "return_rate": 0.074,
+                "success": 4
+            },
+            {
+                "stock": "2891",
+                "limit": 0.05,
+                "cost": 66744,
+                "netValue": 71681,
+                "return_rate": 0.074,
+                "success": 4
+            },
+            {
+                "stock": "2891",
+                "limit": 0.07,
+                "cost": 66744,
+                "netValue": 71681,
+                "return_rate": 0.074,
+                "success": 4
+            }
+        ]
+    },
+    {
+        "stock": "2317",
+        "name": "鴻海",
+        "historyVolatility": 0.23985240819832,
+        "holdingReturn": 0.04239401496259343,
+        "details": [
+            {
+                "stock": "2317",
+                "limit": 0,
+                "cost": 239340,
+                "netValue": 249691,
+                "return_rate": 0.0432,
+                "success": 3
+            },
+            {
+                "stock": "2317",
+                "limit": 0.01,
+                "cost": 323460,
+                "netValue": 332920,
+                "return_rate": 0.0292,
+                "success": 4
+            },
+            {
+                "stock": "2317",
+                "limit": 0.03,
+                "cost": 323460,
+                "netValue": 332920,
+                "return_rate": 0.0292,
+                "success": 4
+            },
+            {
+                "stock": "2317",
+                "limit": 0.05,
+                "cost": 323460,
+                "netValue": 332920,
+                "return_rate": 0.0292,
+                "success": 4
+            },
+            {
+                "stock": "2317",
+                "limit": 0.07,
+                "cost": 323460,
+                "netValue": 332920,
+                "return_rate": 0.0292,
+                "success": 4
+            }
+        ]
+    }
+]

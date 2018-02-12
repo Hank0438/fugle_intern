@@ -1,0 +1,111 @@
+module.exports = {
+
+	apiServer: 'http://localhost:3001',
+
+	tor: {
+		host: 'localhost',
+		port: 9050
+	},
+
+	db: {
+        // for now let the crawler only update db on localhost
+        url: 'localhost',
+        user: '',
+        password: '',
+        options: {
+            replset: {
+                rs_name: 'fugle',
+                auto_reconnect: true,
+                poolSize: 10,
+                socketOptions: {
+                    keepAlive: 1
+                }
+            },
+            server: {
+                auto_reconnect: true,
+                socketOptions: { 
+                    keepAlive: 1 
+                },
+                poolSize: 2
+            },
+            auth: {
+                authSource: 'admin' // default auth db
+            }
+        },
+	},
+
+	chinatimes: {
+
+		db: {
+			enabled: (process.env.UPDATE_CT === 'true') ? true : false,
+			url: '1.1.1.1',
+			user: '',
+			password: '',
+			options: {
+				server: {
+					auto_reconnect: true,
+					socketOptions: { 
+						keepAlive: 1 
+					},
+					poolSize: 2
+				},
+				auth: {
+					authSource: 'admin' // default auth db
+				}
+			}
+		},
+
+		ftp: {
+			host: '',
+			user: '',
+			password: ''
+		},
+
+		news: {
+			host: '',
+			user: '',
+			password: '',
+			port: ''
+		},
+
+		MAX_READ_LINES: 50000,
+		INIT_WAIT_TIME: 250,
+		MAX_WAIT_TIME: 2000,
+		MAX_IMPORT_DOCS: 5000,
+		MAX_CONCURRENT_DAT_FILES: 20,
+		MAX_CONCURRENT_WRITES: 50,
+		UPDATE_COLLECTIONS: 'both', // 'ct', 'fugle', 'both'
+
+		zipSrcRoot: '/db/ct_zips/',
+		zipDstRoot: '/tmp/',
+
+	},
+
+	quandl: {
+	    apiKeys: [],
+	},
+
+	stockfeel: {
+		host     : '',
+		user     : '',
+		password : '',
+		database : '',
+	},
+
+	tej: {
+		user: '',
+		password: ''
+	},
+
+	aws: {
+		credentials: {
+			accessKeyId: '',
+			secretAccessKey: '',
+			region: '',
+		},
+		kinesisPrefix: '',
+		enableKenesis: false
+	}
+
+};
+

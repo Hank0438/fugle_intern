@@ -1,0 +1,4335 @@
+{
+    "nodes": [
+        {
+            "id": "合庫金",
+            "group": 4
+        },
+        {
+            "id": "彰銀",
+            "group": 3
+        },
+        {
+            "id": "旺旺保",
+            "group": 2
+        },
+        {
+            "id": "群益證",
+            "group": 1
+        },
+        {
+            "id": "京城銀",
+            "group": 3
+        },
+        {
+            "id": "台中銀",
+            "group": 3
+        },
+        {
+            "id": "中壽",
+            "group": 2
+        },
+        {
+            "id": "華票",
+            "group": 1
+        },
+        {
+            "id": "台產",
+            "group": 2
+        },
+        {
+            "id": "臺企銀",
+            "group": 3
+        },
+        {
+            "id": "聯邦銀",
+            "group": 3
+        },
+        {
+            "id": "高雄銀",
+            "group": 3
+        },
+        {
+            "id": "遠東銀",
+            "group": 3
+        },
+        {
+            "id": "大眾銀",
+            "group": 3
+        },
+        {
+            "id": "中再保",
+            "group": 2
+        },
+        {
+            "id": "新產",
+            "group": 2
+        },
+        {
+            "id": "安泰銀",
+            "group": 3
+        },
+        {
+            "id": "統一證",
+            "group": 1
+        },
+        {
+            "id": "元富證",
+            "group": 1
+        },
+        {
+            "id": "第一保",
+            "group": 2
+        },
+        {
+            "id": "三商壽",
+            "group": 2
+        },
+        {
+            "id": "開發金",
+            "group": 4
+        },
+        {
+            "id": "國泰金",
+            "group": 4
+        },
+        {
+            "id": "富邦金",
+            "group": 4
+        },
+        {
+            "id": "華南金",
+            "group": 4
+        },
+        {
+            "id": "兆豐金",
+            "group": 4
+        },
+        {
+            "id": "玉山金",
+            "group": 4
+        },
+        {
+            "id": "元大金",
+            "group": 4
+        },
+        {
+            "id": "國票金",
+            "group": 4
+        },
+        {
+            "id": "台新金",
+            "group": 4
+        },
+        {
+            "id": "中信金",
+            "group": 4
+        },
+        {
+            "id": "永豐金",
+            "group": 4
+        },
+        {
+            "id": "新光金",
+            "group": 4
+        },
+        {
+            "id": "日盛金",
+            "group": 4
+        },
+        {
+            "id": "第一金",
+            "group": 4
+        },
+        {
+            "id": "上海商銀",
+            "group": 3
+        },
+        {
+            "id": "瑞興銀",
+            "group": 3
+        },
+        {
+            "id": "臺工銀",
+            "group": 3
+        },
+        {
+            "id": "明台產險",
+            "group": 2
+        },
+        {
+            "id": "大展證",
+            "group": 1
+        },
+        {
+            "id": "大眾證",
+            "group": 1
+        },
+        {
+            "id": "大慶證",
+            "group": 1
+        },
+        {
+            "id": "宏遠證",
+            "group": 1
+        },
+        {
+            "id": "康和證",
+            "group": 1
+        },
+        {
+            "id": "福邦證",
+            "group": 1
+        },
+        {
+            "id": "致和證",
+            "group": 1
+        },
+        {
+            "id": "土銀證券",
+            "group": 1
+        },
+        {
+            "id": "中國信託證券",
+            "group": 1
+        },
+        {
+            "id": "元大寶來證券",
+            "group": 1
+        },
+        {
+            "id": "日盛證券",
+            "group": 1
+        },
+        {
+            "id": "台灣工銀證券",
+            "group": 1
+        },
+        {
+            "id": "永豐金證券",
+            "group": 1
+        },
+        {
+            "id": "玉山證券",
+            "group": 1
+        },
+        {
+            "id": "東亞證券",
+            "group": 1
+        },
+        {
+            "id": "國泰證券",
+            "group": 1
+        },
+        {
+            "id": "第一金證券",
+            "group": 1
+        },
+        {
+            "id": "富邦證券",
+            "group": 1
+        },
+        {
+            "id": "華南永昌證券",
+            "group": 1
+        },
+        {
+            "id": "彰銀證券",
+            "group": 1
+        },
+        {
+            "id": "南企",
+            "group": 5
+        },
+        {
+            "id": "中國人壽",
+            "group": 2
+        },
+        {
+            "id": "中國太保",
+            "group": 2
+        },
+        {
+            "id": "中國平安",
+            "group": 5
+        },
+        {
+            "id": "新華保險",
+            "group": 2
+        },
+        {
+            "id": "大新金融",
+            "group": 5
+        },
+        {
+            "id": "中國太平",
+            "group": 5
+        },
+        {
+            "id": "友邦保險",
+            "group": 2
+        },
+        {
+            "id": "宏利金融",
+            "group": 5
+        },
+        {
+            "id": "亞洲金融",
+            "group": 5
+        },
+        {
+            "id": "保誠",
+            "group": 5
+        },
+        {
+            "id": "國浩集團",
+            "group": 5
+        },
+        {
+            "id": "新華人壽保險",
+            "group": 2
+        },
+        {
+            "id": "大中票券",
+            "group": 1
+        },
+        {
+            "id": "大慶票券",
+            "group": 1
+        },
+        {
+            "id": "台灣票券",
+            "group": 1
+        },
+        {
+            "id": "兆豐票券",
+            "group": 1
+        },
+        {
+            "id": "合庫票券",
+            "group": 1
+        },
+        {
+            "id": "國票",
+            "group": 1
+        },
+        {
+            "id": "萬通票券",
+            "group": 1
+        },
+        {
+            "id": "友聯",
+            "group": 5
+        },
+        {
+            "id": "新安東京海上",
+            "group": 5
+        },
+        {
+            "id": "台企銀",
+            "group": 3
+        },
+        {
+            "id": "台壽保",
+            "group": 2
+        },
+        {
+            "id": "安聯人壽",
+            "group": 2
+        },
+        {
+            "id": "英屬百慕達商美國再保險",
+            "group": 2
+        },
+        {
+            "id": "瑞士商瑞士再保險",
+            "group": 2
+        },
+        {
+            "id": "Citigroup",
+            "group": 5
+        },
+        {
+            "id": "HSBC Holding",
+            "group": 5
+        },
+        {
+            "id": "三商美邦",
+            "group": 5
+        },
+        {
+            "id": "訊利電",
+            "group": 5
+        },
+        {
+            "id": "復華金",
+            "group": 4
+        }
+    ],
+    "links": [
+        {
+            "source": "合庫金",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "國票金",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "臺企銀",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "合庫金",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "臺企銀",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "彰銀",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "旺旺保",
+            "target": "中再保",
+            "value": 5
+        },
+        {
+            "source": "旺旺保",
+            "target": "台產",
+            "value": 5
+        },
+        {
+            "source": "旺旺保",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "旺旺保",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "旺旺保",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "旺旺保",
+            "target": "第一保",
+            "value": 5
+        },
+        {
+            "source": "旺旺保",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "旺旺保",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "旺旺保",
+            "target": "新產",
+            "value": 5
+        },
+        {
+            "source": "旺旺保",
+            "target": "明台產險",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "大展證",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "大眾證",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "大慶證",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "元富證",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "宏遠證",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "康和證",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "統一證",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "福邦證",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "致和證",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "土銀證券",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "中國信託證券",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "元大寶來證券",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "日盛證券",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "台灣工銀證券",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "永豐金證券",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "玉山證券",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "東亞證券",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "國泰證券",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "第一金證券",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "富邦證券",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "華南永昌證券",
+            "value": 5
+        },
+        {
+            "source": "群益證",
+            "target": "彰銀證券",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "臺企銀",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "京城銀",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "南企",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "臺企銀",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "台中銀",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "三商壽",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "中再保",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "中國人壽",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "中國太保",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "中國平安",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "新華保險",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "大新金融",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "中國太平",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "友邦保險",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "宏利金融",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "亞洲金融",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "保誠",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "國浩集團",
+            "value": 5
+        },
+        {
+            "source": "中壽",
+            "target": "新華人壽保險",
+            "value": 5
+        },
+        {
+            "source": "華票",
+            "target": "大中票券",
+            "value": 5
+        },
+        {
+            "source": "華票",
+            "target": "大慶票券",
+            "value": 5
+        },
+        {
+            "source": "華票",
+            "target": "台灣票券",
+            "value": 5
+        },
+        {
+            "source": "華票",
+            "target": "兆豐票券",
+            "value": 5
+        },
+        {
+            "source": "華票",
+            "target": "合庫票券",
+            "value": 5
+        },
+        {
+            "source": "華票",
+            "target": "國票",
+            "value": 5
+        },
+        {
+            "source": "華票",
+            "target": "萬通票券",
+            "value": 5
+        },
+        {
+            "source": "台產",
+            "target": "中再保",
+            "value": 5
+        },
+        {
+            "source": "台產",
+            "target": "友聯",
+            "value": 5
+        },
+        {
+            "source": "台產",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "台產",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "台產",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "台產",
+            "target": "第一保",
+            "value": 5
+        },
+        {
+            "source": "台產",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "台產",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "台產",
+            "target": "新產",
+            "value": 5
+        },
+        {
+            "source": "台產",
+            "target": "明台產險",
+            "value": 5
+        },
+        {
+            "source": "台產",
+            "target": "新安東京海上",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "臺企銀",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "台企銀",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "聯邦銀",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "台企銀",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "南企",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "高雄銀",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "台企銀",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "遠東銀",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "臺企銀",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "大眾銀",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "三商壽",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "中壽",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "台產",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "台壽保",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "旺旺保",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "第一保",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "新產",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "安聯人壽",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "明台產險",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "英屬百慕達商美國再保險",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "新安東京海上",
+            "value": 5
+        },
+        {
+            "source": "中再保",
+            "target": "瑞士商瑞士再保險",
+            "value": 5
+        },
+        {
+            "source": "新產",
+            "target": "中再保",
+            "value": 5
+        },
+        {
+            "source": "新產",
+            "target": "台產",
+            "value": 5
+        },
+        {
+            "source": "新產",
+            "target": "台壽保",
+            "value": 5
+        },
+        {
+            "source": "新產",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "新產",
+            "target": "旺旺保",
+            "value": 5
+        },
+        {
+            "source": "新產",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "新產",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "新產",
+            "target": "第一保",
+            "value": 5
+        },
+        {
+            "source": "新產",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "新產",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "新產",
+            "target": "明台產險",
+            "value": 5
+        },
+        {
+            "source": "新產",
+            "target": "新安東京海上",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "大眾銀",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "台企銀",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "安泰銀",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "大展證",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "大眾證",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "大慶證",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "元富證",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "宏遠證",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "康和證",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "群益證",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "福邦證",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "致和證",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "土銀證券",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "中國信託證券",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "元大寶來證券",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "日盛證券",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "台灣工銀證券",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "永豐金證券",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "玉山證券",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "東亞證券",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "國泰證券",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "第一金證券",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "富邦證券",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "華南永昌證券",
+            "value": 5
+        },
+        {
+            "source": "統一證",
+            "target": "彰銀證券",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "大展證",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "大眾證",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "大慶證",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "宏遠證",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "康和證",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "統一證",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "群益證",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "福邦證",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "致和證",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "土銀證券",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "中國信託證券",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "元大寶來證券",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "日盛證券",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "台灣工銀證券",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "永豐金證券",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "玉山證券",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "東亞證券",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "國泰證券",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "第一金證券",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "富邦證券",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "華南永昌證券",
+            "value": 5
+        },
+        {
+            "source": "元富證",
+            "target": "彰銀證券",
+            "value": 5
+        },
+        {
+            "source": "第一保",
+            "target": "中再保",
+            "value": 5
+        },
+        {
+            "source": "第一保",
+            "target": "台產",
+            "value": 5
+        },
+        {
+            "source": "第一保",
+            "target": "台壽保",
+            "value": 5
+        },
+        {
+            "source": "第一保",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "第一保",
+            "target": "旺旺保",
+            "value": 5
+        },
+        {
+            "source": "第一保",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "第一保",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "第一保",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "第一保",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "第一保",
+            "target": "新產",
+            "value": 5
+        },
+        {
+            "source": "第一保",
+            "target": "明台產險",
+            "value": 5
+        },
+        {
+            "source": "第一保",
+            "target": "新安東京海上",
+            "value": 5
+        },
+        {
+            "source": "三商壽",
+            "target": "中再保",
+            "value": 5
+        },
+        {
+            "source": "三商壽",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "三商壽",
+            "target": "中壽",
+            "value": 5
+        },
+        {
+            "source": "三商壽",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "三商壽",
+            "target": "台壽保",
+            "value": 5
+        },
+        {
+            "source": "三商壽",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "三商壽",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "三商壽",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "三商壽",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "三商壽",
+            "target": "安聯人壽",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "大展證",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "大眾證",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "大慶證",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "元富證",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "宏遠證",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "國票金",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "康和證",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "統一證",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "群益證",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "福邦證",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "臺企銀",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "Citigroup",
+            "value": 5
+        },
+        {
+            "source": "開發金",
+            "target": "HSBC Holding",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "三商美邦",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "大展證",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "大眾銀",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "大眾證",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "大慶證",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "中再保",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "中壽",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "元富證",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "台企銀",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "台產",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "台壽保",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "宏遠證",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "旺旺保",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "國票金",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "康和證",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "第一保",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "統一證",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "新產",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "群益證",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "福邦證",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "Citigroup",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "HSBC Holding",
+            "value": 5
+        },
+        {
+            "source": "國泰金",
+            "target": "安聯人壽",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "三商美邦",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "大眾銀",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "中再保",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "中壽",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "台企銀",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "台產",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "台壽保",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "旺旺保",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "訊利電",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "國票金",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "第一保",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "新產",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "Citigroup",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "HSBC Holding",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "安聯人壽",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "明台產險",
+            "value": 5
+        },
+        {
+            "source": "富邦金",
+            "target": "新安東京海上",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "大眾銀",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "中再保",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "台企銀",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "台產",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "旺旺保",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "國票金",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "第一保",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "新產",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "Citigroup",
+            "value": 5
+        },
+        {
+            "source": "華南金",
+            "target": "HSBC Holding",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "中再保",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "台產",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "旺旺保",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "國票金",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "第一保",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "新產",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "臺企銀",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "Citigroup",
+            "value": 5
+        },
+        {
+            "source": "兆豐金",
+            "target": "HSBC Holding",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "國票金",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "臺企銀",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "Citigroup",
+            "value": 5
+        },
+        {
+            "source": "玉山金",
+            "target": "HSBC Holding",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "國票金",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "臺企銀",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "Citigroup",
+            "value": 5
+        },
+        {
+            "source": "元大金",
+            "target": "HSBC Holding",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "復華金",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "Citigroup",
+            "value": 5
+        },
+        {
+            "source": "國票金",
+            "target": "HSBC Holding",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "三商壽",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "中再保",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "中壽",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "國票金",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "復華金",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "臺企銀",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "Citigroup",
+            "value": 5
+        },
+        {
+            "source": "台新金",
+            "target": "HSBC Holding",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "三商壽",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "中再保",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "中壽",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "元大金",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "國票金",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "臺企銀",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "Citigroup",
+            "value": 5
+        },
+        {
+            "source": "中信金",
+            "target": "HSBC Holding",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "國票金",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "復華金",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "新光金",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "臺企銀",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "Citigroup",
+            "value": 5
+        },
+        {
+            "source": "永豐金",
+            "target": "HSBC Holding",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "三商美邦",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "中再保",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "中信金",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "中壽",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "日盛金",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "台中銀",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "台新金",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "台壽保",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "永豐金",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "玉山金",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "兆豐金",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "合庫金",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "安泰銀",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "京城銀",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "高雄銀",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "國泰金",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "國票金",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "第一金",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "富邦金",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "復華金",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "華南金",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "開發金",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "彰銀",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "臺企銀",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "遠東銀",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "聯邦銀",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "上海商銀",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "瑞興銀",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "臺工銀",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "Citigroup",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "HSBC Holding",
+            "value": 5
+        },
+        {
+            "source": "新光金",
+            "target": "安聯人壽",
+            "value": 5
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+<body>
+<svg width="1330" height="768" >
+</svg>
+<button type="botton" id="smaller" onclick="smaller()">smaller</button>
+<button type="botton" id="bigger" onclick="bigger()">bigger</button>
+<button type="botton" id="odd_hide" onclick="odd_hide()">odd_hide</button>
+<button type="botton" id="odd_show" onclick="odd_show()">odd_show</button>
+</body>
+<script src="d3.min.js"></script>
+<script>
+var bar_data = [3,1,4,1,5,9,2,6,5];
+var svg = d3.select("svg");
+var radius = 100;
+//逆時針排列圓
+var set_cxy = {
+	cx: function(d,i) {
+			return 300 + (radius * Math.cos(Math.PI * 2 * i / bar_data.length));
+		},
+	cy: function(d,i) {
+			return 300 + (radius * Math.sin(Math.PI * 2 * i / bar_data.length));
+		}
+}
+
+var set_xy = {
+	x: function(d,i) {
+			return 300 + ((radius - 20) * Math.cos(Math.PI * 2 * i / bar_data.length));
+		},
+	y: function(d,i) {
+			return 300 + ((radius - 20) * Math.sin(Math.PI * 2 * i / bar_data.length));
+		}
+}
+
+function circle(radius){
+	svg.selectAll("circle")
+	  .data(bar_data)
+	  .enter()
+	  .append("circle")
+	  .attr(set_cxy)
+	  .attr({
+		r: function(d,i) {
+			return d;
+		},
+		fill: "red"
+	  })
+
+	svg.selectAll("text")
+	  .data(bar_data)
+	  .enter()
+	  .append("text")
+	  .attr(set_xy)
+	  .attr({
+		fill: "blue"
+	  })
+	  .text(function(d,i) { return d;})
+};
+
+function smaller() {
+  	if(radius > 20){
+    	radius = radius - 20;
+    	update(radius);
+    }else{
+    	return;
+    }
+};
+
+function bigger() {
+  	if(radius < 1000){
+    	radius = radius + 20;
+    	update(radius);
+    }else{
+    	return;
+    }
+};
+
+function update(radius){
+	svg.selectAll("circle")
+	  .data(bar_data)
+   	  .attr(set_cxy);
+
+	svg.selectAll("text")
+	  .data(bar_data)
+	  .attr(set_xy)
+};
+
+function odd_hide() {
+	var data = [];
+	//1196
+	for (var i = 0; i < bar_data.length/2; i++) {
+		data[i] = bar_data[(2*i)+1];
+	}
+	bar_data = data;
+	alert(bar_data);
+
+	svg.selectAll("circle")
+   	  .data([])
+   	  .exit()
+   	  .remove()
+
+   	svg.selectAll("text")
+   	  .data([])
+   	  .exit()
+   	  .remove()
+
+	svg.selectAll("circle")
+	  .data(data)
+	  .enter()
+	  .append("circle")
+	  .attr(set_cxy)
+	  .attr({
+		r: function(d,i) {
+			return d;
+		},
+		fill: "red"
+	  })
+
+	svg.selectAll("text")
+	  .data(data)
+	  .enter()
+	  .append("text")
+	  .attr(set_xy)
+	  .attr({
+		fill: "blue"
+	  })
+	  .text(function(d,i) { return d;})	  
+};
+
+function odd_show() {
+	bar_data = [3,1,4,1,5,9,2,6,5];
+	svg.selectAll("circle")
+   	  .data([])
+   	  .exit()
+   	  .remove()
+
+   	svg.selectAll("text")
+   	  .data([])
+   	  .exit()
+   	  .remove()
+	circle(radius);	
+}
+</script>

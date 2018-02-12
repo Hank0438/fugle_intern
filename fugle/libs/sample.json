@@ -1,0 +1,856 @@
+{
+    "nodes": [
+        {
+            "id": "car",
+            "group": 6
+        },
+        {
+            "id": "light",
+            "group": 1
+        },
+        {
+            "id": "帝寶",
+            "group": 5
+        },
+        {
+            "id": "堤維西",
+            "group": 5
+        },
+        {
+            "id": "大億",
+            "group": 5
+        },
+        {
+            "id": "正峰新",
+            "group": 5
+        },
+        {
+            "id": "至寶電",
+            "group": 5
+        },
+        {
+            "id": "belt",
+            "group": 1
+        },
+        {
+            "id": "劍麟",
+            "group": 5
+        },
+        {
+            "id": "redirect system",
+            "group": 1
+        },
+        {
+            "id": "和大",
+            "group": 5
+        },
+        {
+            "id": "正道",
+            "group": 5
+        },
+        {
+            "id": "劍麟",
+            "group": 5
+        },
+        {
+            "id": "structure",
+            "group": 1
+        },
+        {
+            "id": "瑞利",
+            "group": 5
+        },
+        {
+            "id": "江申",
+            "group": 5
+        },
+        {
+            "id": "glass",
+            "group": 1
+        },
+        {
+            "id": "台玻",
+            "group": 5
+        },
+        {
+            "id": "fuel system",
+            "group": 1
+        },
+        {
+            "id": "瑞利",
+            "group": 5
+        },
+        {
+            "id": "brake",
+            "group": 1
+        },
+        {
+            "id": "F-永新",
+            "group": 5
+        },
+        {
+            "id": "F-百達",
+            "group": 5
+        },
+        {
+            "id": "axle",
+            "group": 1
+        },
+        {
+            "id": "倉佑",
+            "group": 5
+        },
+        {
+            "id": "和大",
+            "group": 5
+        },
+        {
+            "id": "tire",
+            "group": 1
+        },
+        {
+            "id": "南港",
+            "group": 5
+        },
+        {
+            "id": "泰豐",
+            "group": 5
+        },
+        {
+            "id": "正新",
+            "group": 5
+        },
+        {
+            "id": "建大",
+            "group": 5
+        },
+        {
+            "id": "electrical system",
+            "group": 1
+        },
+        {
+            "id": "士電",
+            "group": 5
+        },
+        {
+            "id": "東元",
+            "group": 5
+        },
+        {
+            "id": "precision metal",
+            "group": 1
+        },
+        {
+            "id": "宇隆",
+            "group": 5
+        },
+        {
+            "id": "智伸科",
+            "group": 5
+        },
+        {
+            "id": "circut",
+            "group": 1
+        },
+        {
+            "id": "同致",
+            "group": 5
+        },
+        {
+            "id": "車王電",
+            "group": 5
+        },
+        {
+            "id": "光寶",
+            "group": 5
+        },
+        {
+            "id": "怡利電",
+            "group": 5
+        },
+        {
+            "id": "為升",
+            "group": 5
+        },
+        {
+            "id": "F-六暉",
+            "group": 5
+        },
+        {
+            "id": "朋程",
+            "group": 5
+        },
+        {
+            "id": "part",
+            "group": 1
+        },
+        {
+            "id": "東陽",
+            "group": 5
+        },
+        {
+            "id": "昭輝",
+            "group": 5
+        },
+        {
+            "id": "江申",
+            "group": 5
+        },
+        {
+            "id": "bumper",
+            "group": 1
+        },
+        {
+            "id": "東陽",
+            "group": 5
+        },
+        {
+            "id": "昭輝",
+            "group": 5
+        },
+        {
+            "id": "耿鼎",
+            "group": 5
+        },
+        {
+            "id": "rim",
+            "group": 1
+        },
+        {
+            "id": "巧新",
+            "group": 5
+        },
+        {
+            "id": "健信",
+            "group": 5
+        },
+        {
+            "id": "inside",
+            "group": 1
+        },
+        {
+            "id": "F-廣華",
+            "group": 5
+        },
+        {
+            "id": "東陽",
+            "group": 5
+        },
+        {
+            "id": "suspend system",
+            "group": 1
+        },
+        {
+            "id": "正道",
+            "group": 5
+        },
+        {
+            "id": "transmission",
+            "group": 1
+        },
+        {
+            "id": "倉佑",
+            "group": 5
+        },
+        {
+            "id": "至興",
+            "group": 5
+        },
+        {
+            "id": "fan",
+            "group": 1
+        },
+        {
+            "id": "永彰",
+            "group": 5
+        },
+        {
+            "id": "士電",
+            "group": 5
+        },
+        {
+            "id": "F-英瑞",
+            "group": 5
+        },
+        {
+            "id": "萬在",
+            "group": 5
+        },
+        {
+            "id": "謚源",
+            "group": 5
+        },
+        {
+            "id": "元山",
+            "group": 5
+        },
+        {
+            "id": "sales",
+            "group": 1
+        },
+        {
+            "id": "中華車",
+            "group": 5
+        },
+        {
+            "id": "三陽",
+            "group": 5
+        },
+        {
+            "id": "和泰車",
+            "group": 5
+        },
+        {
+            "id": "裕日車",
+            "group": 5
+        },
+        {
+            "id": "sheet metal",
+            "group": 1
+        },
+        {
+            "id": "江申",
+            "group": 5
+        },
+        {
+            "id": "耿鼎",
+            "group": 5
+        },
+        {
+            "id": "瑞利",
+            "group": 5
+        },
+        {
+            "id": "東陽",
+            "group": 5
+        },
+        {
+            "id": "connect",
+            "group": 1
+        },
+        {
+            "id": "胡連",
+            "group": 5
+        },
+        {
+            "id": "健和興",
+            "group": 5
+        },
+        {
+            "id": "F-貿聯",
+            "group": 5
+        },
+        {
+            "id": "F-達輝",
+            "group": 5
+        },
+        {
+            "id": "fasteners",
+            "group": 1
+        },
+        {
+            "id": "世德",
+            "group": 5
+        },
+        {
+            "id": "curtain",
+            "group": 1
+        },
+        {
+            "id": "皇田",
+            "group": 5
+        },
+        {
+            "id": "assembling",
+            "group": 1
+        },
+        {
+            "id": "裕隆",
+            "group": 5
+        },
+        {
+            "id": "中華車",
+            "group": 5
+        },
+        {
+            "id": "裕日車",
+            "group": 5
+        },
+        {
+            "id": "三陽",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": "car",
+            "target": "light",
+            "value": 10
+        },
+        {
+            "source": "light",
+            "target": "帝寶",
+            "value": 10
+        },
+        {
+            "source": "light",
+            "target": "堤維西",
+            "value": 10
+        },
+        {
+            "source": "light",
+            "target": "大億",
+            "value": 10
+        },
+        {
+            "source": "light",
+            "target": "正峰新",
+            "value": 10
+        },
+        {
+            "source": "light",
+            "target": "至寶電",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "belt",
+            "value": 10
+        },
+        {
+            "source": "belt",
+            "target": "劍麟",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "redirect system",
+            "value": 10
+        },
+        {
+            "source": "redirect system",
+            "target": "和大",
+            "value": 10
+        },
+        {
+            "source": "redirect system",
+            "target": "正道",
+            "value": 10
+        },
+        {
+            "source": "redirect system",
+            "target": "劍麟",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "structure",
+            "value": 10
+        },
+        {
+            "source": "structure",
+            "target": "瑞利",
+            "value": 10
+        },
+        {
+            "source": "structure",
+            "target": "江申",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "glass",
+            "value": 10
+        },
+        {
+            "source": "glass",
+            "target": "台玻",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "fuel system",
+            "value": 10
+        },
+        {
+            "source": "fuel system",
+            "target": "瑞利",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "brake",
+            "value": 10
+        },
+        {
+            "source": "brake",
+            "target": "F-永新",
+            "value": 10
+        },
+        {
+            "source": "brake",
+            "target": "F-百達",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "axle",
+            "value": 10
+        },
+        {
+            "source": "axle",
+            "target": "倉佑",
+            "value": 10
+        },
+        {
+            "source": "axle",
+            "target": "和大",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "tire",
+            "value": 10
+        },
+        {
+            "source": "tire",
+            "target": "南港",
+            "value": 10
+        },
+        {
+            "source": "tire",
+            "target": "泰豐",
+            "value": 10
+        },
+        {
+            "source": "tire",
+            "target": "正新",
+            "value": 10
+        },
+        {
+            "source": "tire",
+            "target": "建大",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "electrical system",
+            "value": 10
+        },
+        {
+            "source": "electrical system",
+            "target": "士電",
+            "value": 10
+        },
+        {
+            "source": "electrical system",
+            "target": "東元",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "precision metal",
+            "value": 10
+        },
+        {
+            "source": "precision metal",
+            "target": "宇隆",
+            "value": 10
+        },
+        {
+            "source": "precision metal",
+            "target": "智伸科",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "circut",
+            "value": 10
+        },
+        {
+            "source": "circut",
+            "target": "同致",
+            "value": 10
+        },
+        {
+            "source": "circut",
+            "target": "車王電",
+            "value": 10
+        },
+        {
+            "source": "circut",
+            "target": "光寶",
+            "value": 10
+        },
+        {
+            "source": "circut",
+            "target": "怡利電",
+            "value": 10
+        },
+        {
+            "source": "circut",
+            "target": "為升",
+            "value": 10
+        },
+        {
+            "source": "circut",
+            "target": "F-六暉",
+            "value": 10
+        },
+        {
+            "source": "circut",
+            "target": "朋程",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "part",
+            "value": 10
+        },
+        {
+            "source": "part",
+            "target": "東陽",
+            "value": 10
+        },
+        {
+            "source": "part",
+            "target": "昭輝",
+            "value": 10
+        },
+        {
+            "source": "part",
+            "target": "江申",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "bumper",
+            "value": 10
+        },
+        {
+            "source": "bumper",
+            "target": "東陽",
+            "value": 10
+        },
+        {
+            "source": "bumper",
+            "target": "昭輝",
+            "value": 10
+        },
+        {
+            "source": "bumper",
+            "target": "耿鼎",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "rim",
+            "value": 10
+        },
+        {
+            "source": "rim",
+            "target": "巧新",
+            "value": 10
+        },
+        {
+            "source": "rim",
+            "target": "健信",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "inside",
+            "value": 10
+        },
+        {
+            "source": "inside",
+            "target": "F-廣華",
+            "value": 10
+        },
+        {
+            "source": "inside",
+            "target": "東陽",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "suspend system",
+            "value": 10
+        },
+        {
+            "source": "suspend system",
+            "target": "正道",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "transmission",
+            "value": 10
+        },
+        {
+            "source": "transmission",
+            "target": "倉佑",
+            "value": 10
+        },
+        {
+            "source": "transmission",
+            "target": "至興",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "fan",
+            "value": 10
+        },
+        {
+            "source": "fan",
+            "target": "永彰",
+            "value": 10
+        },
+        {
+            "source": "fan",
+            "target": "士電",
+            "value": 10
+        },
+        {
+            "source": "fan",
+            "target": "F-英瑞",
+            "value": 10
+        },
+        {
+            "source": "fan",
+            "target": "萬在",
+            "value": 10
+        },
+        {
+            "source": "fan",
+            "target": "謚源",
+            "value": 10
+        },
+        {
+            "source": "fan",
+            "target": "元山",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "sales",
+            "value": 10
+        },
+        {
+            "source": "sales",
+            "target": "中華車",
+            "value": 10
+        },
+        {
+            "source": "sales",
+            "target": "三陽",
+            "value": 10
+        },
+        {
+            "source": "sales",
+            "target": "和泰車",
+            "value": 10
+        },
+        {
+            "source": "sales",
+            "target": "裕日車",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "sheet metal",
+            "value": 10
+        },
+        {
+            "source": "sheet metal",
+            "target": "江申",
+            "value": 10
+        },
+        {
+            "source": "sheet metal",
+            "target": "耿鼎",
+            "value": 10
+        },
+        {
+            "source": "sheet metal",
+            "target": "瑞利",
+            "value": 10
+        },
+        {
+            "source": "sheet metal",
+            "target": "東陽",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "connect",
+            "value": 10
+        },
+        {
+            "source": "connect",
+            "target": "胡連",
+            "value": 10
+        },
+        {
+            "source": "connect",
+            "target": "健和興",
+            "value": 10
+        },
+        {
+            "source": "connect",
+            "target": "F-貿聯",
+            "value": 10
+        },
+        {
+            "source": "connect",
+            "target": "F-達輝",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "fasteners",
+            "value": 10
+        },
+        {
+            "source": "fasteners",
+            "target": "世德",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "curtain",
+            "value": 10
+        },
+        {
+            "source": "curtain",
+            "target": "皇田",
+            "value": 10
+        },
+        {
+            "source": "car",
+            "target": "assembling",
+            "value": 10
+        },
+        {
+            "source": "assembling",
+            "target": "裕隆",
+            "value": 10
+        },
+        {
+            "source": "assembling",
+            "target": "中華車",
+            "value": 10
+        },
+        {
+            "source": "assembling",
+            "target": "裕日車",
+            "value": 10
+        },
+        {
+            "source": "assembling",
+            "target": "三陽",
+            "value": 10
+        }
+    ]
+}

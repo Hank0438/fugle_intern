@@ -1,0 +1,82 @@
+<% include ./header %>
+
+<!-- Table sorter JavaScript -->
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h1><%= title %></h1>
+                <p class="lead">Total <%= mgr.length %> crawlers</p>
+                <form class="form-inline">
+                    Board_name: <input type="text" class="form-control" id="add_board_name" placeholder="Board Name"/>&nbsp;
+                    Limit_type: <input type="text" class="form-control" id="add_limit_type" placeholder="page/day"/>&nbsp;
+                    Limit_number: <input type="text" class="form-control" id="add_limit_number" placeholder="Number"/>&nbsp;
+                    <input type="button" class="btn btn-warning" id="add_new_crawler" value="Add New Crawler"/>
+                </form>
+                <p>
+                <table id="crawler_table" class="tablesorter">
+                    <thead>
+                        <tr>
+                            <th>board_name</th>
+                            <th>limit_type</th>
+                            <th>limit_number</th>
+                            <th>status</th>
+                            <th>current</th>
+                            <th>create_time</th>
+                            <th>last_updatetime</th>
+                            <th>last_update</th>
+                            <th>frequency</th>
+                            <td>restart</td>
+                            <td>delete</td>
+
+                        </tr>
+                    </thead>
+                    <tbody id="crawler_table_body">
+                        <% for(var i= 0; i< mgr.length; i++){ %>
+                            <tr id="crawler_<%= i %>">
+
+                                <td id="board_name_<%= i %>"><a href="/pttTable/board=<%= mgr[i].board_name %>/page=0"> <%= mgr[i].board_name %></a></td>
+
+
+
+                                <td id="limit_type_<%= i %>"> <%= mgr[i].setting.limit_type %></td>
+                                <td id="limit_number_<%= i %>"> <%= mgr[i].setting.limit_number %></td>
+                                <td id="status"> <%= mgr[i].status %></td>
+                                <td id="current"> <%= mgr[i].current %></td>
+                                <td id="create_time"> <%= mgr[i].create_time %></td>
+                                <td id="last_updatetime"> <%= mgr[i].last_updatetime %></td>
+                                <td id="last_update"> <%= mgr[i].last_update %></td>
+                                <td id="frequency"> <%= mgr[i].frequency %></td>
+                                <td>
+                                    <form>
+                                        <input type="button" class="btn btn-primary btn-sm" id="button_crawler_<%= i %>" value="Start">
+                                    </form>
+                                </td>
+                                <td>
+                                    <form>
+                                        <input type="button" class="btn btn-danger btn-sm" id="button_crawler_delete_<%= i %>" value="Delete">
+                                    </form>
+                                </td>
+
+                            </tr>
+                        <% } %>
+                    </tbody>
+
+                </table>
+
+            </div>
+        </div>
+        <!-- /.row -->
+
+    </div>
+    <!-- /.container -->
+
+
+    <!-- include crawler -->
+    <script>
+    var mgr_length = <%= mgr.length %>;
+    </script>
+
+<% include ./footer %>

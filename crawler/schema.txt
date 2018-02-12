@@ -1,0 +1,24 @@
+#DB:
+##PTT content
+
+author
+title
+date
+update_time
+board
+link
+like_count
+content
+comment
+  - (express, name:index, words, time)
+
+
+##PTT crawler
+
+board_name
+setting
+  - (limit_type, limit_number)
+status: 1/0
+last_update
+create_time
+frequency

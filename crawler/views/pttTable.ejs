@@ -1,0 +1,112 @@
+<% include ./header %>
+<!-- Page Content -->
+   <div class="container">
+     <div class="row">
+        <div class="col-lg-12 text-center">
+          <h1><%= title %></h1>
+          <form class="form-inline" action="/pttTable" id="searchForm">
+               <input type="text" class="form-control" name="s_title" id="text_search" placeholder="Title"/>
+               <input type="text" class="form-control" name="s_content" id="text_search" placeholder="Content"/>
+               <input type="text" class="form-control" name="s_words" id="text_search" placeholder="Words"/>
+               <input type="text" class="form-control" name="s_symbol" id="text_search" placeholder="Symbol"/>
+               <input type="submit" class="btn btn-primary" id="btn_search" value="Search"/>
+          </form>
+        </div>
+      </div>
+    <!-- /.row -->
+
+      <div class="row">
+        <div class="col-lg-12 text-center">
+
+          <div class="table-responsive">
+           <table class="table table-bordered table-hover table-striped">
+            <thead>
+              <tr>
+                   <th>Author</th>
+                   <th>Nickname</th>
+                   <th>Title</th>
+                   <th>PublishedDate</th>
+                   <th>Board</th>
+                   <th>Ip</th>
+                   <th>LikeCount</th>
+                   <th>Comment</th>
+                   <th>Symbol</th>
+              </tr>
+            </thead>
+            <tbody>
+                <% for(var i = 0; i < ptt.length; i++) { %>
+              <tr>
+
+                    <td> <a href="/pttTable?author=<%= ptt[i].author %>&page=0">
+                         <%= ptt[i].author %></a></td>
+                    <td> <%= ptt[i].nickname %></td>
+                    <td style="color:#337ab7" class="click">
+                         <%= ptt[i].title %></td>
+                    <td> <%= ptt[i].publishedDate %></td>
+                    <td> <a href="/pttTable?board=<%= ptt[i].board %>&page=0">
+                         <%= ptt[i].board %></a></td>
+                    <td> <a href="/pttTable?ip=<%= ptt[i].ip %>&page=0">
+                         <%= ptt[i].ip %></td>
+                    <td> <%= ptt[i].likeCount %></td>
+                    <td> <%= ptt[i].comment.length %></td>
+                    <td>
+                        <% for(var j =0; j< ptt[i].symbol_id.length ;j++){ %>
+                            <%= ptt[i].symbol_id[j] %>
+                            <% if (j != ptt[i].symbol_id.length -1 ) {%>,<%}%>
+                        <% } %>
+                    </td>
+              </tr>
+              <tr><% if (ptt[i].content.length < 300){ %>
+                    <td style="display: none" colspan="7" class="toggle">
+                         <%= ptt[i].content %>
+                         <a href="<%= ptt[i].link %>" target="_blank">
+                         ...查看來源</a></td>
+                  <% }else{ %>
+                    <td style="display: none" colspan="9" class="toggle">
+                         <%= ptt[i].content.slice(0,300) %>
+
+                        <a href="<%= ptt[i].link %>" target="_blank">
+                         ...查看來源</a></td>
+
+                  <% } %>
+              </tr>
+                  <% } %>
+            </tbody>
+
+          </table>
+        </div>
+      </div>
+    <!-- /.row -->
+    <ul class="pagination pagination-lg">
+    <% var url = ""; %>
+    <% for(var j = 0 ; j < type.length ; j++){ %>
+    <% url += type[j].type + "=" + type[j].string + "&"%>
+    <% } %>
+    <% if(parseInt(page) > 0){ %>
+      <li><a href="?<%= url %>page=<%= parseInt(page)-1 %>"><<</a></li>
+    <% } %>
+    <% if(parseInt(page) > 1){ %>
+      <li><a href="?<%= url %>page=<%= parseInt(page)-2 %>"><%= parseInt(page)-2 %></a></li>
+    <% } %>
+    <% if(parseInt(page) > 0){ %>
+      <li><a href="?<%= url %>page=<%= parseInt(page)-1 %>"><%= parseInt(page)-1 %></a></li>
+    <% } %>
+      <li><a style="color:black" href="#"><%= page %></a></li>
+    <% if(parseInt(page) !== end ){ %>
+      <li><a href="?<%= url %>page=<%= parseInt(page)+1 %>"><%= parseInt(page)+1 %></a></li>
+    <% if(parseInt(page) !== end-1 ){ %>
+      <li><a href="?<%= url %>page=<%= parseInt(page)+2 %>"><%= parseInt(page)+2 %></a></li>
+    <% } %>
+      <li><a href="?<%= url %>page=<%= parseInt(page)+1 %>">>></a></li>
+    <% } %>
+    </ul>
+  </div>
+<!-- /.container -->
+
+<!-- include crawler -->
+    <script>
+    var ptt = <%= ptt %>
+    </script>
+
+
+<% include ./footer %>

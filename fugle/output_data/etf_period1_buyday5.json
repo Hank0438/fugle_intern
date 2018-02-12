@@ -1,0 +1,2642 @@
+[
+    {
+        "stock": "00649",
+        "name": "FH香港",
+        "history_volatility": 0.16822813025524885,
+        "details": [
+            {
+                "stock": "00649",
+                "limit": 0,
+                "cost": 143780,
+                "value": 154350,
+                "return_rate": 0.0735,
+                "success": 9
+            },
+            {
+                "stock": "00649",
+                "limit": 0.01,
+                "cost": 176590,
+                "value": 188650,
+                "return_rate": 0.0683,
+                "success": 11
+            },
+            {
+                "stock": "00649",
+                "limit": 0.03,
+                "cost": 176610,
+                "value": 188650,
+                "return_rate": 0.0682,
+                "success": 11
+            },
+            {
+                "stock": "00649",
+                "limit": 0.05,
+                "cost": 176610,
+                "value": 188650,
+                "return_rate": 0.0682,
+                "success": 11
+            },
+            {
+                "stock": "00649",
+                "limit": 0.07,
+                "cost": 176610,
+                "value": 188650,
+                "return_rate": 0.0682,
+                "success": 11
+            },
+            {
+                "stock": "00649",
+                "limit": "LU",
+                "cost": 176610,
+                "value": 188650,
+                "return_rate": 0.0682,
+                "success": 11
+            }
+        ]
+    },
+    {
+        "stock": "00645",
+        "name": "富邦日本",
+        "history_volatility": 0.24447457695994249,
+        "details": [
+            {
+                "stock": "00645",
+                "limit": 0,
+                "cost": 137190,
+                "value": 155520,
+                "return_rate": 0.1336,
+                "success": 8
+            },
+            {
+                "stock": "00645",
+                "limit": 0.01,
+                "cost": 205230,
+                "value": 233280,
+                "return_rate": 0.1367,
+                "success": 12
+            },
+            {
+                "stock": "00645",
+                "limit": 0.03,
+                "cost": 205230,
+                "value": 233280,
+                "return_rate": 0.1367,
+                "success": 12
+            },
+            {
+                "stock": "00645",
+                "limit": 0.05,
+                "cost": 205230,
+                "value": 233280,
+                "return_rate": 0.1367,
+                "success": 12
+            },
+            {
+                "stock": "00645",
+                "limit": 0.07,
+                "cost": 205230,
+                "value": 233280,
+                "return_rate": 0.1367,
+                "success": 12
+            },
+            {
+                "stock": "00645",
+                "limit": "LU",
+                "cost": 205230,
+                "value": 233280,
+                "return_rate": 0.1367,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00657",
+        "name": "國泰日經225",
+        "history_volatility": 0.234718074563958,
+        "details": [
+            {
+                "stock": "00657",
+                "limit": 0,
+                "cost": 41400,
+                "value": 45860,
+                "return_rate": 0.1077,
+                "success": 2
+            },
+            {
+                "stock": "00657",
+                "limit": 0.01,
+                "cost": 122650,
+                "value": 137580,
+                "return_rate": 0.1217,
+                "success": 6
+            },
+            {
+                "stock": "00657",
+                "limit": 0.03,
+                "cost": 143710,
+                "value": 160510,
+                "return_rate": 0.1169,
+                "success": 7
+            },
+            {
+                "stock": "00657",
+                "limit": 0.05,
+                "cost": 143710,
+                "value": 160510,
+                "return_rate": 0.1169,
+                "success": 7
+            },
+            {
+                "stock": "00657",
+                "limit": 0.07,
+                "cost": 143710,
+                "value": 160510,
+                "return_rate": 0.1169,
+                "success": 7
+            },
+            {
+                "stock": "00657",
+                "limit": "LU",
+                "cost": 143710,
+                "value": 160510,
+                "return_rate": 0.1169,
+                "success": 7
+            }
+        ]
+    },
+    {
+        "stock": "00633L",
+        "name": "富邦上証正2",
+        "history_volatility": 0.3954994425924938,
+        "details": [
+            {
+                "stock": "00633L",
+                "limit": 0,
+                "cost": 246140,
+                "value": 296320,
+                "return_rate": 0.2039,
+                "success": 8
+            },
+            {
+                "stock": "00633L",
+                "limit": 0.01,
+                "cost": 309490,
+                "value": 370400,
+                "return_rate": 0.1968,
+                "success": 10
+            },
+            {
+                "stock": "00633L",
+                "limit": 0.03,
+                "cost": 368560,
+                "value": 444480,
+                "return_rate": 0.206,
+                "success": 12
+            },
+            {
+                "stock": "00633L",
+                "limit": 0.05,
+                "cost": 368610,
+                "value": 444480,
+                "return_rate": 0.2058,
+                "success": 12
+            },
+            {
+                "stock": "00633L",
+                "limit": 0.07,
+                "cost": 368610,
+                "value": 444480,
+                "return_rate": 0.2058,
+                "success": 12
+            },
+            {
+                "stock": "00633L",
+                "limit": "LU",
+                "cost": 368610,
+                "value": 444480,
+                "return_rate": 0.2058,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00640L",
+        "name": "富邦日本正2",
+        "history_volatility": 0.4858509963407221,
+        "details": [
+            {
+                "stock": "00640L",
+                "limit": 0,
+                "cost": 120100,
+                "value": 144320,
+                "return_rate": 0.2017,
+                "success": 8
+            },
+            {
+                "stock": "00640L",
+                "limit": 0.01,
+                "cost": 132990,
+                "value": 162360,
+                "return_rate": 0.2208,
+                "success": 9
+            },
+            {
+                "stock": "00640L",
+                "limit": 0.03,
+                "cost": 176090,
+                "value": 216480,
+                "return_rate": 0.2294,
+                "success": 12
+            },
+            {
+                "stock": "00640L",
+                "limit": 0.05,
+                "cost": 176090,
+                "value": 216480,
+                "return_rate": 0.2294,
+                "success": 12
+            },
+            {
+                "stock": "00640L",
+                "limit": 0.07,
+                "cost": 176090,
+                "value": 216480,
+                "return_rate": 0.2294,
+                "success": 12
+            },
+            {
+                "stock": "00640L",
+                "limit": "LU",
+                "cost": 176090,
+                "value": 216480,
+                "return_rate": 0.2294,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00635U",
+        "name": "元大S&P黃金",
+        "history_volatility": 0.17448350352245753,
+        "details": [
+            {
+                "stock": "00635U",
+                "limit": 0,
+                "cost": 165570,
+                "value": 151120,
+                "return_rate": -0.0873,
+                "success": 8
+            },
+            {
+                "stock": "00635U",
+                "limit": 0.01,
+                "cost": 227380,
+                "value": 207790,
+                "return_rate": -0.0862,
+                "success": 11
+            },
+            {
+                "stock": "00635U",
+                "limit": 0.03,
+                "cost": 227380,
+                "value": 207790,
+                "return_rate": -0.0862,
+                "success": 11
+            },
+            {
+                "stock": "00635U",
+                "limit": 0.05,
+                "cost": 247220,
+                "value": 226680,
+                "return_rate": -0.0831,
+                "success": 12
+            },
+            {
+                "stock": "00635U",
+                "limit": 0.07,
+                "cost": 247270,
+                "value": 226680,
+                "return_rate": -0.0833,
+                "success": 12
+            },
+            {
+                "stock": "00635U",
+                "limit": "LU",
+                "cost": 247270,
+                "value": 226680,
+                "return_rate": -0.0833,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00642U",
+        "name": "元大S&P石油",
+        "history_volatility": 0.30996867817789076,
+        "details": [
+            {
+                "stock": "00642U",
+                "limit": 0,
+                "cost": 83530,
+                "value": 95300,
+                "return_rate": 0.1409,
+                "success": 5
+            },
+            {
+                "stock": "00642U",
+                "limit": 0.01,
+                "cost": 154180,
+                "value": 171540,
+                "return_rate": 0.1126,
+                "success": 9
+            },
+            {
+                "stock": "00642U",
+                "limit": 0.03,
+                "cost": 191650,
+                "value": 209660,
+                "return_rate": 0.094,
+                "success": 11
+            },
+            {
+                "stock": "00642U",
+                "limit": 0.05,
+                "cost": 207620,
+                "value": 228720,
+                "return_rate": 0.1016,
+                "success": 12
+            },
+            {
+                "stock": "00642U",
+                "limit": 0.07,
+                "cost": 207620,
+                "value": 228720,
+                "return_rate": 0.1016,
+                "success": 12
+            },
+            {
+                "stock": "00642U",
+                "limit": "LU",
+                "cost": 207620,
+                "value": 228720,
+                "return_rate": 0.1016,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00655L",
+        "name": "國泰中國A50正2",
+        "history_volatility": 0.27693509477170714,
+        "details": [
+            {
+                "stock": "00655L",
+                "limit": 0,
+                "cost": 133130,
+                "value": 156960,
+                "return_rate": 0.179,
+                "success": 6
+            },
+            {
+                "stock": "00655L",
+                "limit": 0.01,
+                "cost": 177280,
+                "value": 209280,
+                "return_rate": 0.1805,
+                "success": 8
+            },
+            {
+                "stock": "00655L",
+                "limit": 0.03,
+                "cost": 197760,
+                "value": 235440,
+                "return_rate": 0.1905,
+                "success": 9
+            },
+            {
+                "stock": "00655L",
+                "limit": 0.05,
+                "cost": 197760,
+                "value": 235440,
+                "return_rate": 0.1905,
+                "success": 9
+            },
+            {
+                "stock": "00655L",
+                "limit": 0.07,
+                "cost": 197760,
+                "value": 235440,
+                "return_rate": 0.1905,
+                "success": 9
+            },
+            {
+                "stock": "00655L",
+                "limit": "LU",
+                "cost": 197760,
+                "value": 235440,
+                "return_rate": 0.1905,
+                "success": 9
+            }
+        ]
+    },
+    {
+        "stock": "00653L",
+        "name": "富邦印度正2",
+        "history_volatility": 0.27944298031402004,
+        "details": [
+            {
+                "stock": "00653L",
+                "limit": 0,
+                "cost": 149770,
+                "value": 143220,
+                "return_rate": -0.0437,
+                "success": 7
+            },
+            {
+                "stock": "00653L",
+                "limit": 0.01,
+                "cost": 173500,
+                "value": 163680,
+                "return_rate": -0.0566,
+                "success": 8
+            },
+            {
+                "stock": "00653L",
+                "limit": 0.03,
+                "cost": 198100,
+                "value": 184140,
+                "return_rate": -0.0705,
+                "success": 9
+            },
+            {
+                "stock": "00653L",
+                "limit": 0.05,
+                "cost": 198100,
+                "value": 184140,
+                "return_rate": -0.0705,
+                "success": 9
+            },
+            {
+                "stock": "00653L",
+                "limit": 0.07,
+                "cost": 198100,
+                "value": 184140,
+                "return_rate": -0.0705,
+                "success": 9
+            },
+            {
+                "stock": "00653L",
+                "limit": "LU",
+                "cost": 198100,
+                "value": 184140,
+                "return_rate": -0.0705,
+                "success": 9
+            }
+        ]
+    },
+    {
+        "stock": "00641R",
+        "name": "富邦日本反1",
+        "history_volatility": 0.2368504101724951,
+        "details": [
+            {
+                "stock": "00641R",
+                "limit": 0,
+                "cost": 144410,
+                "value": 125440,
+                "return_rate": -0.1314,
+                "success": 7
+            },
+            {
+                "stock": "00641R",
+                "limit": 0.01,
+                "cost": 206060,
+                "value": 179200,
+                "return_rate": -0.1304,
+                "success": 10
+            },
+            {
+                "stock": "00641R",
+                "limit": 0.03,
+                "cost": 228220,
+                "value": 197120,
+                "return_rate": -0.1363,
+                "success": 11
+            },
+            {
+                "stock": "00641R",
+                "limit": 0.05,
+                "cost": 228220,
+                "value": 197120,
+                "return_rate": -0.1363,
+                "success": 11
+            },
+            {
+                "stock": "00641R",
+                "limit": 0.07,
+                "cost": 250480,
+                "value": 215040,
+                "return_rate": -0.1415,
+                "success": 12
+            },
+            {
+                "stock": "00641R",
+                "limit": "LU",
+                "cost": 250770,
+                "value": 215040,
+                "return_rate": -0.1425,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00634R",
+        "name": "富邦上証反1",
+        "history_volatility": 0.20401138397350452,
+        "details": [
+            {
+                "stock": "00634R",
+                "limit": 0,
+                "cost": 102930,
+                "value": 89300,
+                "return_rate": -0.1324,
+                "success": 10
+            },
+            {
+                "stock": "00634R",
+                "limit": 0.01,
+                "cost": 122560,
+                "value": 107160,
+                "return_rate": -0.1257,
+                "success": 12
+            },
+            {
+                "stock": "00634R",
+                "limit": 0.03,
+                "cost": 122770,
+                "value": 107160,
+                "return_rate": -0.1271,
+                "success": 12
+            },
+            {
+                "stock": "00634R",
+                "limit": 0.05,
+                "cost": 122770,
+                "value": 107160,
+                "return_rate": -0.1271,
+                "success": 12
+            },
+            {
+                "stock": "00634R",
+                "limit": 0.07,
+                "cost": 122770,
+                "value": 107160,
+                "return_rate": -0.1271,
+                "success": 12
+            },
+            {
+                "stock": "00634R",
+                "limit": "LU",
+                "cost": 122770,
+                "value": 107160,
+                "return_rate": -0.1271,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00656R",
+        "name": "國泰中國A50反1",
+        "history_volatility": 0.143194531011334,
+        "details": [
+            {
+                "stock": "00656R",
+                "limit": 0,
+                "cost": 129670,
+                "value": 115360,
+                "return_rate": -0.1104,
+                "success": 7
+            },
+            {
+                "stock": "00656R",
+                "limit": 0.01,
+                "cost": 165840,
+                "value": 148320,
+                "return_rate": -0.1056,
+                "success": 9
+            },
+            {
+                "stock": "00656R",
+                "limit": 0.03,
+                "cost": 165890,
+                "value": 148320,
+                "return_rate": -0.1059,
+                "success": 9
+            },
+            {
+                "stock": "00656R",
+                "limit": 0.05,
+                "cost": 165890,
+                "value": 148320,
+                "return_rate": -0.1059,
+                "success": 9
+            },
+            {
+                "stock": "00656R",
+                "limit": 0.07,
+                "cost": 165890,
+                "value": 148320,
+                "return_rate": -0.1059,
+                "success": 9
+            },
+            {
+                "stock": "00656R",
+                "limit": "LU",
+                "cost": 165890,
+                "value": 148320,
+                "return_rate": -0.1059,
+                "success": 9
+            }
+        ]
+    },
+    {
+        "stock": "00660",
+        "name": "元大歐洲50",
+        "history_volatility": 0.16779317105758146,
+        "details": [
+            {
+                "stock": "00660",
+                "limit": 0,
+                "cost": 60910,
+                "value": 65280,
+                "return_rate": 0.0717,
+                "success": 3
+            },
+            {
+                "stock": "00660",
+                "limit": 0.01,
+                "cost": 101420,
+                "value": 108800,
+                "return_rate": 0.0728,
+                "success": 5
+            },
+            {
+                "stock": "00660",
+                "limit": 0.03,
+                "cost": 122380,
+                "value": 130560,
+                "return_rate": 0.0668,
+                "success": 6
+            },
+            {
+                "stock": "00660",
+                "limit": 0.05,
+                "cost": 122380,
+                "value": 130560,
+                "return_rate": 0.0668,
+                "success": 6
+            },
+            {
+                "stock": "00660",
+                "limit": 0.07,
+                "cost": 122380,
+                "value": 130560,
+                "return_rate": 0.0668,
+                "success": 6
+            },
+            {
+                "stock": "00660",
+                "limit": "LU",
+                "cost": 122380,
+                "value": 130560,
+                "return_rate": 0.0668,
+                "success": 6
+            }
+        ]
+    },
+    {
+        "stock": "00658L",
+        "name": "國泰日本正2",
+        "history_volatility": 0.4563508257319547,
+        "details": [
+            {
+                "stock": "00658L",
+                "limit": 0,
+                "cost": 43110,
+                "value": 52500,
+                "return_rate": 0.2178,
+                "success": 2
+            },
+            {
+                "stock": "00658L",
+                "limit": 0.01,
+                "cost": 104690,
+                "value": 131250,
+                "return_rate": 0.2537,
+                "success": 5
+            },
+            {
+                "stock": "00658L",
+                "limit": 0.03,
+                "cost": 148500,
+                "value": 183750,
+                "return_rate": 0.2374,
+                "success": 7
+            },
+            {
+                "stock": "00658L",
+                "limit": 0.05,
+                "cost": 148500,
+                "value": 183750,
+                "return_rate": 0.2374,
+                "success": 7
+            },
+            {
+                "stock": "00658L",
+                "limit": 0.07,
+                "cost": 148500,
+                "value": 183750,
+                "return_rate": 0.2374,
+                "success": 7
+            },
+            {
+                "stock": "00658L",
+                "limit": "LU",
+                "cost": 148500,
+                "value": 183750,
+                "return_rate": 0.2374,
+                "success": 7
+            }
+        ]
+    },
+    {
+        "stock": "00648R",
+        "name": "元大S&P500反1",
+        "history_volatility": 0.1486769975442278,
+        "details": [
+            {
+                "stock": "00648R",
+                "limit": 0,
+                "cost": 153850,
+                "value": 139360,
+                "return_rate": -0.0942,
+                "success": 8
+            },
+            {
+                "stock": "00648R",
+                "limit": 0.01,
+                "cost": 231370,
+                "value": 209040,
+                "return_rate": -0.0965,
+                "success": 12
+            },
+            {
+                "stock": "00648R",
+                "limit": 0.03,
+                "cost": 231370,
+                "value": 209040,
+                "return_rate": -0.0965,
+                "success": 12
+            },
+            {
+                "stock": "00648R",
+                "limit": 0.05,
+                "cost": 231370,
+                "value": 209040,
+                "return_rate": -0.0965,
+                "success": 12
+            },
+            {
+                "stock": "00648R",
+                "limit": 0.07,
+                "cost": 231370,
+                "value": 209040,
+                "return_rate": -0.0965,
+                "success": 12
+            },
+            {
+                "stock": "00648R",
+                "limit": "LU",
+                "cost": 231370,
+                "value": 209040,
+                "return_rate": -0.0965,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00638R",
+        "name": "元大滬深300反1",
+        "history_volatility": 0.20296248123393218,
+        "details": [
+            {
+                "stock": "00638R",
+                "limit": 0,
+                "cost": 194100,
+                "value": 174300,
+                "return_rate": -0.102,
+                "success": 10
+            },
+            {
+                "stock": "00638R",
+                "limit": 0.01,
+                "cost": 230480,
+                "value": 209160,
+                "return_rate": -0.0925,
+                "success": 12
+            },
+            {
+                "stock": "00638R",
+                "limit": 0.03,
+                "cost": 230760,
+                "value": 209160,
+                "return_rate": -0.0936,
+                "success": 12
+            },
+            {
+                "stock": "00638R",
+                "limit": 0.05,
+                "cost": 230760,
+                "value": 209160,
+                "return_rate": -0.0936,
+                "success": 12
+            },
+            {
+                "stock": "00638R",
+                "limit": 0.07,
+                "cost": 230760,
+                "value": 209160,
+                "return_rate": -0.0936,
+                "success": 12
+            },
+            {
+                "stock": "00638R",
+                "limit": "LU",
+                "cost": 230760,
+                "value": 209160,
+                "return_rate": -0.0936,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00646",
+        "name": "元大S&P500",
+        "history_volatility": 0.13199160542390467,
+        "details": [
+            {
+                "stock": "00646",
+                "limit": 0,
+                "cost": 198430,
+                "value": 212200,
+                "return_rate": 0.0694,
+                "success": 10
+            },
+            {
+                "stock": "00646",
+                "limit": 0.01,
+                "cost": 238520,
+                "value": 254640,
+                "return_rate": 0.0676,
+                "success": 12
+            },
+            {
+                "stock": "00646",
+                "limit": 0.03,
+                "cost": 238520,
+                "value": 254640,
+                "return_rate": 0.0676,
+                "success": 12
+            },
+            {
+                "stock": "00646",
+                "limit": 0.05,
+                "cost": 238520,
+                "value": 254640,
+                "return_rate": 0.0676,
+                "success": 12
+            },
+            {
+                "stock": "00646",
+                "limit": 0.07,
+                "cost": 238520,
+                "value": 254640,
+                "return_rate": 0.0676,
+                "success": 12
+            },
+            {
+                "stock": "00646",
+                "limit": "LU",
+                "cost": 238520,
+                "value": 254640,
+                "return_rate": 0.0676,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00652",
+        "name": "富邦印度",
+        "history_volatility": 0.14235529750344908,
+        "details": [
+            {
+                "stock": "00652",
+                "limit": 0,
+                "cost": 164050,
+                "value": 158160,
+                "return_rate": -0.0359,
+                "success": 8
+            },
+            {
+                "stock": "00652",
+                "limit": 0.01,
+                "cost": 185940,
+                "value": 177930,
+                "return_rate": -0.0431,
+                "success": 9
+            },
+            {
+                "stock": "00652",
+                "limit": 0.03,
+                "cost": 185940,
+                "value": 177930,
+                "return_rate": -0.0431,
+                "success": 9
+            },
+            {
+                "stock": "00652",
+                "limit": 0.05,
+                "cost": 185940,
+                "value": 177930,
+                "return_rate": -0.0431,
+                "success": 9
+            },
+            {
+                "stock": "00652",
+                "limit": 0.07,
+                "cost": 185940,
+                "value": 177930,
+                "return_rate": -0.0431,
+                "success": 9
+            },
+            {
+                "stock": "00652",
+                "limit": "LU",
+                "cost": 185940,
+                "value": 177930,
+                "return_rate": -0.0431,
+                "success": 9
+            }
+        ]
+    },
+    {
+        "stock": "00654R",
+        "name": "富邦印度反1",
+        "history_volatility": 0.14506620144599847,
+        "details": [
+            {
+                "stock": "00654R",
+                "limit": 0,
+                "cost": 129000,
+                "value": 130970,
+                "return_rate": 0.0153,
+                "success": 7
+            },
+            {
+                "stock": "00654R",
+                "limit": 0.01,
+                "cost": 147500,
+                "value": 149680,
+                "return_rate": 0.0148,
+                "success": 8
+            },
+            {
+                "stock": "00654R",
+                "limit": 0.03,
+                "cost": 167530,
+                "value": 168390,
+                "return_rate": 0.0051,
+                "success": 9
+            },
+            {
+                "stock": "00654R",
+                "limit": 0.05,
+                "cost": 167530,
+                "value": 168390,
+                "return_rate": 0.0051,
+                "success": 9
+            },
+            {
+                "stock": "00654R",
+                "limit": 0.07,
+                "cost": 167530,
+                "value": 168390,
+                "return_rate": 0.0051,
+                "success": 9
+            },
+            {
+                "stock": "00654R",
+                "limit": "LU",
+                "cost": 167530,
+                "value": 168390,
+                "return_rate": 0.0051,
+                "success": 9
+            }
+        ]
+    },
+    {
+        "stock": "00632R",
+        "name": "元大台灣50反1",
+        "history_volatility": 0.14496384866527343,
+        "details": [
+            {
+                "stock": "00632R",
+                "limit": 0,
+                "cost": 180810,
+                "value": 159000,
+                "return_rate": -0.1206,
+                "success": 10
+            },
+            {
+                "stock": "00632R",
+                "limit": 0.01,
+                "cost": 218130,
+                "value": 190800,
+                "return_rate": -0.1253,
+                "success": 12
+            },
+            {
+                "stock": "00632R",
+                "limit": 0.03,
+                "cost": 218290,
+                "value": 190800,
+                "return_rate": -0.1259,
+                "success": 12
+            },
+            {
+                "stock": "00632R",
+                "limit": 0.05,
+                "cost": 218290,
+                "value": 190800,
+                "return_rate": -0.1259,
+                "success": 12
+            },
+            {
+                "stock": "00632R",
+                "limit": 0.07,
+                "cost": 218290,
+                "value": 190800,
+                "return_rate": -0.1259,
+                "success": 12
+            },
+            {
+                "stock": "00632R",
+                "limit": "LU",
+                "cost": 218290,
+                "value": 190800,
+                "return_rate": -0.1259,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00663L",
+        "name": "國泰臺灣加權正2",
+        "history_volatility": 0.273568045419114,
+        "details": [
+            {
+                "stock": "00663L",
+                "limit": 0,
+                "cost": 45540,
+                "value": 47580,
+                "return_rate": 0.0448,
+                "success": 2
+            },
+            {
+                "stock": "00663L",
+                "limit": 0.01,
+                "cost": 67000,
+                "value": 71370,
+                "return_rate": 0.0652,
+                "success": 3
+            },
+            {
+                "stock": "00663L",
+                "limit": 0.03,
+                "cost": 111300,
+                "value": 118950,
+                "return_rate": 0.0687,
+                "success": 5
+            },
+            {
+                "stock": "00663L",
+                "limit": 0.05,
+                "cost": 111300,
+                "value": 118950,
+                "return_rate": 0.0687,
+                "success": 5
+            },
+            {
+                "stock": "00663L",
+                "limit": 0.07,
+                "cost": 111300,
+                "value": 118950,
+                "return_rate": 0.0687,
+                "success": 5
+            },
+            {
+                "stock": "00663L",
+                "limit": "LU",
+                "cost": 111300,
+                "value": 118950,
+                "return_rate": 0.0687,
+                "success": 5
+            }
+        ]
+    },
+    {
+        "stock": "00636",
+        "name": "國泰中國A50",
+        "history_volatility": 0.18066478745531997,
+        "details": [
+            {
+                "stock": "00636",
+                "limit": 0,
+                "cost": 177650,
+                "value": 189200,
+                "return_rate": 0.065,
+                "success": 11
+            },
+            {
+                "stock": "00636",
+                "limit": 0.01,
+                "cost": 177910,
+                "value": 189200,
+                "return_rate": 0.0635,
+                "success": 11
+            },
+            {
+                "stock": "00636",
+                "limit": 0.03,
+                "cost": 194260,
+                "value": 206400,
+                "return_rate": 0.0625,
+                "success": 12
+            },
+            {
+                "stock": "00636",
+                "limit": 0.05,
+                "cost": 194260,
+                "value": 206400,
+                "return_rate": 0.0625,
+                "success": 12
+            },
+            {
+                "stock": "00636",
+                "limit": 0.07,
+                "cost": 194260,
+                "value": 206400,
+                "return_rate": 0.0625,
+                "success": 12
+            },
+            {
+                "stock": "00636",
+                "limit": "LU",
+                "cost": 194260,
+                "value": 206400,
+                "return_rate": 0.0625,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00639",
+        "name": "富邦深100",
+        "history_volatility": 0.24032493181026587,
+        "details": [
+            {
+                "stock": "00639",
+                "limit": 0,
+                "cost": 91270,
+                "value": 91620,
+                "return_rate": 0.0038,
+                "success": 9
+            },
+            {
+                "stock": "00639",
+                "limit": 0.01,
+                "cost": 121270,
+                "value": 122160,
+                "return_rate": 0.0073,
+                "success": 12
+            },
+            {
+                "stock": "00639",
+                "limit": 0.03,
+                "cost": 121310,
+                "value": 122160,
+                "return_rate": 0.007,
+                "success": 12
+            },
+            {
+                "stock": "00639",
+                "limit": 0.05,
+                "cost": 121310,
+                "value": 122160,
+                "return_rate": 0.007,
+                "success": 12
+            },
+            {
+                "stock": "00639",
+                "limit": 0.07,
+                "cost": 121310,
+                "value": 122160,
+                "return_rate": 0.007,
+                "success": 12
+            },
+            {
+                "stock": "00639",
+                "limit": "LU",
+                "cost": 121310,
+                "value": 122160,
+                "return_rate": 0.007,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00662",
+        "name": "富邦NASDAQ",
+        "history_volatility": 0.162334120398577,
+        "details": [
+            {
+                "stock": "00662",
+                "limit": 0,
+                "cost": 61820,
+                "value": 63900,
+                "return_rate": 0.0336,
+                "success": 3
+            },
+            {
+                "stock": "00662",
+                "limit": 0.01,
+                "cost": 123890,
+                "value": 127800,
+                "return_rate": 0.0316,
+                "success": 6
+            },
+            {
+                "stock": "00662",
+                "limit": 0.03,
+                "cost": 123890,
+                "value": 127800,
+                "return_rate": 0.0316,
+                "success": 6
+            },
+            {
+                "stock": "00662",
+                "limit": 0.05,
+                "cost": 123890,
+                "value": 127800,
+                "return_rate": 0.0316,
+                "success": 6
+            },
+            {
+                "stock": "00662",
+                "limit": 0.07,
+                "cost": 123890,
+                "value": 127800,
+                "return_rate": 0.0316,
+                "success": 6
+            },
+            {
+                "stock": "00662",
+                "limit": "LU",
+                "cost": 123890,
+                "value": 127800,
+                "return_rate": 0.0316,
+                "success": 6
+            }
+        ]
+    },
+    {
+        "stock": "00647L",
+        "name": "元大S&P500正2",
+        "history_volatility": 0.28205918530288104,
+        "details": [
+            {
+                "stock": "00647L",
+                "limit": 0,
+                "cost": 199860,
+                "value": 232600,
+                "return_rate": 0.1638,
+                "success": 10
+            },
+            {
+                "stock": "00647L",
+                "limit": 0.01,
+                "cost": 199860,
+                "value": 232600,
+                "return_rate": 0.1638,
+                "success": 10
+            },
+            {
+                "stock": "00647L",
+                "limit": 0.03,
+                "cost": 242150,
+                "value": 279120,
+                "return_rate": 0.1527,
+                "success": 12
+            },
+            {
+                "stock": "00647L",
+                "limit": 0.05,
+                "cost": 242150,
+                "value": 279120,
+                "return_rate": 0.1527,
+                "success": 12
+            },
+            {
+                "stock": "00647L",
+                "limit": 0.07,
+                "cost": 242150,
+                "value": 279120,
+                "return_rate": 0.1527,
+                "success": 12
+            },
+            {
+                "stock": "00647L",
+                "limit": "LU",
+                "cost": 242150,
+                "value": 279120,
+                "return_rate": 0.1527,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00659R",
+        "name": "國泰日本反1",
+        "history_volatility": 0.22711841229924382,
+        "details": [
+            {
+                "stock": "00659R",
+                "limit": 0,
+                "cost": 93610,
+                "value": 81050,
+                "return_rate": -0.1342,
+                "success": 5
+            },
+            {
+                "stock": "00659R",
+                "limit": 0.01,
+                "cost": 130520,
+                "value": 113470,
+                "return_rate": -0.1306,
+                "success": 7
+            },
+            {
+                "stock": "00659R",
+                "limit": 0.03,
+                "cost": 130520,
+                "value": 113470,
+                "return_rate": -0.1306,
+                "success": 7
+            },
+            {
+                "stock": "00659R",
+                "limit": 0.05,
+                "cost": 130520,
+                "value": 113470,
+                "return_rate": -0.1306,
+                "success": 7
+            },
+            {
+                "stock": "00659R",
+                "limit": 0.07,
+                "cost": 130520,
+                "value": 113470,
+                "return_rate": -0.1306,
+                "success": 7
+            },
+            {
+                "stock": "00659R",
+                "limit": "LU",
+                "cost": 130520,
+                "value": 113470,
+                "return_rate": -0.1306,
+                "success": 7
+            }
+        ]
+    },
+    {
+        "stock": "00637L",
+        "name": "元大滬深300正2",
+        "history_volatility": 0.3874259653165815,
+        "details": [
+            {
+                "stock": "00637L",
+                "limit": 0,
+                "cost": 91790,
+                "value": 110640,
+                "return_rate": 0.2054,
+                "success": 8
+            },
+            {
+                "stock": "00637L",
+                "limit": 0.01,
+                "cost": 125910,
+                "value": 152130,
+                "return_rate": 0.2082,
+                "success": 11
+            },
+            {
+                "stock": "00637L",
+                "limit": 0.03,
+                "cost": 137310,
+                "value": 165960,
+                "return_rate": 0.2087,
+                "success": 12
+            },
+            {
+                "stock": "00637L",
+                "limit": 0.05,
+                "cost": 137340,
+                "value": 165960,
+                "return_rate": 0.2084,
+                "success": 12
+            },
+            {
+                "stock": "00637L",
+                "limit": 0.07,
+                "cost": 137340,
+                "value": 165960,
+                "return_rate": 0.2084,
+                "success": 12
+            },
+            {
+                "stock": "00637L",
+                "limit": "LU",
+                "cost": 137340,
+                "value": 165960,
+                "return_rate": 0.2084,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00650L",
+        "name": "FH香港正2",
+        "history_volatility": 0.35839767175875265,
+        "details": [
+            {
+                "stock": "00650L",
+                "limit": 0,
+                "cost": 144480,
+                "value": 167840,
+                "return_rate": 0.1617,
+                "success": 8
+            },
+            {
+                "stock": "00650L",
+                "limit": 0.01,
+                "cost": 203850,
+                "value": 230780,
+                "return_rate": 0.1321,
+                "success": 11
+            },
+            {
+                "stock": "00650L",
+                "limit": 0.03,
+                "cost": 204080,
+                "value": 230780,
+                "return_rate": 0.1308,
+                "success": 11
+            },
+            {
+                "stock": "00650L",
+                "limit": 0.05,
+                "cost": 204080,
+                "value": 230780,
+                "return_rate": 0.1308,
+                "success": 11
+            },
+            {
+                "stock": "00650L",
+                "limit": 0.07,
+                "cost": 204080,
+                "value": 230780,
+                "return_rate": 0.1308,
+                "success": 11
+            },
+            {
+                "stock": "00650L",
+                "limit": "LU",
+                "cost": 204080,
+                "value": 230780,
+                "return_rate": 0.1308,
+                "success": 11
+            }
+        ]
+    },
+    {
+        "stock": "00661",
+        "name": "元大日經225",
+        "history_volatility": 0.22496664040843597,
+        "details": [
+            {
+                "stock": "00661",
+                "limit": 0,
+                "cost": 42830,
+                "value": 47620,
+                "return_rate": 0.1118,
+                "success": 2
+            },
+            {
+                "stock": "00661",
+                "limit": 0.01,
+                "cost": 105880,
+                "value": 119050,
+                "return_rate": 0.1244,
+                "success": 5
+            },
+            {
+                "stock": "00661",
+                "limit": 0.03,
+                "cost": 127520,
+                "value": 142860,
+                "return_rate": 0.1203,
+                "success": 6
+            },
+            {
+                "stock": "00661",
+                "limit": 0.05,
+                "cost": 127520,
+                "value": 142860,
+                "return_rate": 0.1203,
+                "success": 6
+            },
+            {
+                "stock": "00661",
+                "limit": 0.07,
+                "cost": 127520,
+                "value": 142860,
+                "return_rate": 0.1203,
+                "success": 6
+            },
+            {
+                "stock": "00661",
+                "limit": "LU",
+                "cost": 127520,
+                "value": 142860,
+                "return_rate": 0.1203,
+                "success": 6
+            }
+        ]
+    },
+    {
+        "stock": "00631L",
+        "name": "元大台灣50正2",
+        "history_volatility": 0.3053018542926899,
+        "details": [
+            {
+                "stock": "00631L",
+                "limit": 0,
+                "cost": 180190,
+                "value": 232740,
+                "return_rate": 0.2916,
+                "success": 9
+            },
+            {
+                "stock": "00631L",
+                "limit": 0.01,
+                "cost": 203550,
+                "value": 258600,
+                "return_rate": 0.2704,
+                "success": 10
+            },
+            {
+                "stock": "00631L",
+                "limit": 0.03,
+                "cost": 251790,
+                "value": 310320,
+                "return_rate": 0.2325,
+                "success": 12
+            },
+            {
+                "stock": "00631L",
+                "limit": 0.05,
+                "cost": 251790,
+                "value": 310320,
+                "return_rate": 0.2325,
+                "success": 12
+            },
+            {
+                "stock": "00631L",
+                "limit": 0.07,
+                "cost": 251790,
+                "value": 310320,
+                "return_rate": 0.2325,
+                "success": 12
+            },
+            {
+                "stock": "00631L",
+                "limit": "LU",
+                "cost": 251790,
+                "value": 310320,
+                "return_rate": 0.2325,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "00651R",
+        "name": "FH香港反1",
+        "history_volatility": 0.18426241039175964,
+        "details": [
+            {
+                "stock": "00651R",
+                "limit": 0,
+                "cost": 113700,
+                "value": 106020,
+                "return_rate": -0.0675,
+                "success": 9
+            },
+            {
+                "stock": "00651R",
+                "limit": 0.01,
+                "cost": 129210,
+                "value": 117800,
+                "return_rate": -0.0883,
+                "success": 10
+            },
+            {
+                "stock": "00651R",
+                "limit": 0.03,
+                "cost": 143230,
+                "value": 129580,
+                "return_rate": -0.0953,
+                "success": 11
+            },
+            {
+                "stock": "00651R",
+                "limit": 0.05,
+                "cost": 143230,
+                "value": 129580,
+                "return_rate": -0.0953,
+                "success": 11
+            },
+            {
+                "stock": "00651R",
+                "limit": 0.07,
+                "cost": 143230,
+                "value": 129580,
+                "return_rate": -0.0953,
+                "success": 11
+            },
+            {
+                "stock": "00651R",
+                "limit": "LU",
+                "cost": 143230,
+                "value": 129580,
+                "return_rate": -0.0953,
+                "success": 11
+            }
+        ]
+    },
+    {
+        "stock": "0052",
+        "name": "富邦科技",
+        "history_volatility": 0.19280468809409454,
+        "details": [
+            {
+                "stock": "0052",
+                "limit": 0,
+                "cost": 276740,
+                "value": 303240,
+                "return_rate": 0.0958,
+                "success": 7
+            },
+            {
+                "stock": "0052",
+                "limit": 0.01,
+                "cost": 360270,
+                "value": 389880,
+                "return_rate": 0.0822,
+                "success": 9
+            },
+            {
+                "stock": "0052",
+                "limit": 0.03,
+                "cost": 485350,
+                "value": 519840,
+                "return_rate": 0.0711,
+                "success": 12
+            },
+            {
+                "stock": "0052",
+                "limit": 0.05,
+                "cost": 485350,
+                "value": 519840,
+                "return_rate": 0.0711,
+                "success": 12
+            },
+            {
+                "stock": "0052",
+                "limit": 0.07,
+                "cost": 485350,
+                "value": 519840,
+                "return_rate": 0.0711,
+                "success": 12
+            },
+            {
+                "stock": "0052",
+                "limit": "LU",
+                "cost": 485350,
+                "value": 519840,
+                "return_rate": 0.0711,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "006203",
+        "name": "元大MSCI台灣",
+        "history_volatility": 0.14633731243066547,
+        "details": [
+            {
+                "stock": "006203",
+                "limit": 0,
+                "cost": 210020,
+                "value": 233800,
+                "return_rate": 0.1132,
+                "success": 7
+            },
+            {
+                "stock": "006203",
+                "limit": 0.01,
+                "cost": 303470,
+                "value": 334000,
+                "return_rate": 0.1006,
+                "success": 10
+            },
+            {
+                "stock": "006203",
+                "limit": 0.03,
+                "cost": 367620,
+                "value": 400800,
+                "return_rate": 0.0903,
+                "success": 12
+            },
+            {
+                "stock": "006203",
+                "limit": 0.05,
+                "cost": 367620,
+                "value": 400800,
+                "return_rate": 0.0903,
+                "success": 12
+            },
+            {
+                "stock": "006203",
+                "limit": 0.07,
+                "cost": 367620,
+                "value": 400800,
+                "return_rate": 0.0903,
+                "success": 12
+            },
+            {
+                "stock": "006203",
+                "limit": "LU",
+                "cost": 367620,
+                "value": 400800,
+                "return_rate": 0.0903,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "006207",
+        "name": "FH滬深",
+        "history_volatility": 0.21679867272012524,
+        "details": [
+            {
+                "stock": "006207",
+                "limit": 0,
+                "cost": 205430,
+                "value": 212100,
+                "return_rate": 0.0325,
+                "success": 10
+            },
+            {
+                "stock": "006207",
+                "limit": 0.01,
+                "cost": 225860,
+                "value": 233310,
+                "return_rate": 0.033,
+                "success": 11
+            },
+            {
+                "stock": "006207",
+                "limit": 0.03,
+                "cost": 246790,
+                "value": 254520,
+                "return_rate": 0.0313,
+                "success": 12
+            },
+            {
+                "stock": "006207",
+                "limit": 0.05,
+                "cost": 246790,
+                "value": 254520,
+                "return_rate": 0.0313,
+                "success": 12
+            },
+            {
+                "stock": "006207",
+                "limit": 0.07,
+                "cost": 246790,
+                "value": 254520,
+                "return_rate": 0.0313,
+                "success": 12
+            },
+            {
+                "stock": "006207",
+                "limit": "LU",
+                "cost": 246790,
+                "value": 254520,
+                "return_rate": 0.0313,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "006208",
+        "name": "富邦台50",
+        "history_volatility": 0.15245421550755944,
+        "details": [
+            {
+                "stock": "006208",
+                "limit": 0,
+                "cost": 251660,
+                "value": 291900,
+                "return_rate": 0.1599,
+                "success": 7
+            },
+            {
+                "stock": "006208",
+                "limit": 0.01,
+                "cost": 367570,
+                "value": 417000,
+                "return_rate": 0.1345,
+                "success": 10
+            },
+            {
+                "stock": "006208",
+                "limit": 0.03,
+                "cost": 448510,
+                "value": 500400,
+                "return_rate": 0.1157,
+                "success": 12
+            },
+            {
+                "stock": "006208",
+                "limit": 0.05,
+                "cost": 448510,
+                "value": 500400,
+                "return_rate": 0.1157,
+                "success": 12
+            },
+            {
+                "stock": "006208",
+                "limit": 0.07,
+                "cost": 448510,
+                "value": 500400,
+                "return_rate": 0.1157,
+                "success": 12
+            },
+            {
+                "stock": "006208",
+                "limit": "LU",
+                "cost": 448510,
+                "value": 500400,
+                "return_rate": 0.1157,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "0059",
+        "name": "富邦金融",
+        "history_volatility": 0.1626300463438141,
+        "details": [
+            {
+                "stock": "0059",
+                "limit": 0,
+                "cost": 207260,
+                "value": 243110,
+                "return_rate": 0.173,
+                "success": 7
+            },
+            {
+                "stock": "0059",
+                "limit": 0.01,
+                "cost": 274870,
+                "value": 312570,
+                "return_rate": 0.1372,
+                "success": 9
+            },
+            {
+                "stock": "0059",
+                "limit": 0.03,
+                "cost": 368610,
+                "value": 416760,
+                "return_rate": 0.1306,
+                "success": 12
+            },
+            {
+                "stock": "0059",
+                "limit": 0.05,
+                "cost": 368610,
+                "value": 416760,
+                "return_rate": 0.1306,
+                "success": 12
+            },
+            {
+                "stock": "0059",
+                "limit": 0.07,
+                "cost": 368610,
+                "value": 416760,
+                "return_rate": 0.1306,
+                "success": 12
+            },
+            {
+                "stock": "0059",
+                "limit": "LU",
+                "cost": 368610,
+                "value": 416760,
+                "return_rate": 0.1306,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "0060",
+        "name": "新台灣",
+        "history_volatility": 0.2062953043245265,
+        "details": [
+            {
+                "stock": "0060",
+                "limit": 0,
+                "cost": 53320,
+                "value": 54460,
+                "return_rate": 0.0214,
+                "success": 2
+            },
+            {
+                "stock": "0060",
+                "limit": 0.01,
+                "cost": 53430,
+                "value": 54460,
+                "return_rate": 0.0193,
+                "success": 2
+            },
+            {
+                "stock": "0060",
+                "limit": 0.03,
+                "cost": 53430,
+                "value": 54460,
+                "return_rate": 0.0193,
+                "success": 2
+            },
+            {
+                "stock": "0060",
+                "limit": 0.05,
+                "cost": 53430,
+                "value": 54460,
+                "return_rate": 0.0193,
+                "success": 2
+            },
+            {
+                "stock": "0060",
+                "limit": 0.07,
+                "cost": 53430,
+                "value": 54460,
+                "return_rate": 0.0193,
+                "success": 2
+            },
+            {
+                "stock": "0060",
+                "limit": "LU",
+                "cost": 53430,
+                "value": 54460,
+                "return_rate": 0.0193,
+                "success": 2
+            }
+        ]
+    },
+    {
+        "stock": "0056",
+        "name": "元大高股息",
+        "history_volatility": 0.13640603451024394,
+        "details": [
+            {
+                "stock": "0056",
+                "limit": 0,
+                "cost": 251050,
+                "value": 257730,
+                "return_rate": 0.0266,
+                "success": 11
+            },
+            {
+                "stock": "0056",
+                "limit": 0.01,
+                "cost": 274220,
+                "value": 281160,
+                "return_rate": 0.0253,
+                "success": 12
+            },
+            {
+                "stock": "0056",
+                "limit": 0.03,
+                "cost": 274220,
+                "value": 281160,
+                "return_rate": 0.0253,
+                "success": 12
+            },
+            {
+                "stock": "0056",
+                "limit": 0.05,
+                "cost": 274220,
+                "value": 281160,
+                "return_rate": 0.0253,
+                "success": 12
+            },
+            {
+                "stock": "0056",
+                "limit": 0.07,
+                "cost": 274220,
+                "value": 281160,
+                "return_rate": 0.0253,
+                "success": 12
+            },
+            {
+                "stock": "0056",
+                "limit": "LU",
+                "cost": 274220,
+                "value": 281160,
+                "return_rate": 0.0253,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "0053",
+        "name": "元大電子",
+        "history_volatility": 0.1562441898812519,
+        "details": [
+            {
+                "stock": "0053",
+                "limit": 0,
+                "cost": 196110,
+                "value": 208110,
+                "return_rate": 0.0612,
+                "success": 7
+            },
+            {
+                "stock": "0053",
+                "limit": 0.01,
+                "cost": 337340,
+                "value": 356760,
+                "return_rate": 0.0576,
+                "success": 12
+            },
+            {
+                "stock": "0053",
+                "limit": 0.03,
+                "cost": 337340,
+                "value": 356760,
+                "return_rate": 0.0576,
+                "success": 12
+            },
+            {
+                "stock": "0053",
+                "limit": 0.05,
+                "cost": 337340,
+                "value": 356760,
+                "return_rate": 0.0576,
+                "success": 12
+            },
+            {
+                "stock": "0053",
+                "limit": 0.07,
+                "cost": 337340,
+                "value": 356760,
+                "return_rate": 0.0576,
+                "success": 12
+            },
+            {
+                "stock": "0053",
+                "limit": "LU",
+                "cost": 337340,
+                "value": 356760,
+                "return_rate": 0.0576,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "0055",
+        "name": "元大MSCI金融",
+        "history_volatility": 0.14424039850033782,
+        "details": [
+            {
+                "stock": "0055",
+                "limit": 0,
+                "cost": 130470,
+                "value": 146300,
+                "return_rate": 0.1213,
+                "success": 10
+            },
+            {
+                "stock": "0055",
+                "limit": 0.01,
+                "cost": 157210,
+                "value": 175560,
+                "return_rate": 0.1167,
+                "success": 12
+            },
+            {
+                "stock": "0055",
+                "limit": 0.03,
+                "cost": 157210,
+                "value": 175560,
+                "return_rate": 0.1167,
+                "success": 12
+            },
+            {
+                "stock": "0055",
+                "limit": 0.05,
+                "cost": 157210,
+                "value": 175560,
+                "return_rate": 0.1167,
+                "success": 12
+            },
+            {
+                "stock": "0055",
+                "limit": 0.07,
+                "cost": 157210,
+                "value": 175560,
+                "return_rate": 0.1167,
+                "success": 12
+            },
+            {
+                "stock": "0055",
+                "limit": "LU",
+                "cost": 157210,
+                "value": 175560,
+                "return_rate": 0.1167,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "0057",
+        "name": "富邦摩台",
+        "history_volatility": 0.16504728479899297,
+        "details": [
+            {
+                "stock": "0057",
+                "limit": 0,
+                "cost": 352960,
+                "value": 385740,
+                "return_rate": 0.0929,
+                "success": 9
+            },
+            {
+                "stock": "0057",
+                "limit": 0.01,
+                "cost": 392180,
+                "value": 428600,
+                "return_rate": 0.0929,
+                "success": 10
+            },
+            {
+                "stock": "0057",
+                "limit": 0.03,
+                "cost": 475220,
+                "value": 514320,
+                "return_rate": 0.0823,
+                "success": 12
+            },
+            {
+                "stock": "0057",
+                "limit": 0.05,
+                "cost": 475220,
+                "value": 514320,
+                "return_rate": 0.0823,
+                "success": 12
+            },
+            {
+                "stock": "0057",
+                "limit": 0.07,
+                "cost": 475220,
+                "value": 514320,
+                "return_rate": 0.0823,
+                "success": 12
+            },
+            {
+                "stock": "0057",
+                "limit": "LU",
+                "cost": 475220,
+                "value": 514320,
+                "return_rate": 0.0823,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "006204",
+        "name": "永豐臺灣加權",
+        "history_volatility": 0.12737224553325113,
+        "details": [
+            {
+                "stock": "006204",
+                "limit": 0,
+                "cost": 436880,
+                "value": 462000,
+                "return_rate": 0.0575,
+                "success": 10
+            },
+            {
+                "stock": "006204",
+                "limit": 0.01,
+                "cost": 522700,
+                "value": 554400,
+                "return_rate": 0.0606,
+                "success": 12
+            },
+            {
+                "stock": "006204",
+                "limit": 0.03,
+                "cost": 522700,
+                "value": 554400,
+                "return_rate": 0.0606,
+                "success": 12
+            },
+            {
+                "stock": "006204",
+                "limit": 0.05,
+                "cost": 522700,
+                "value": 554400,
+                "return_rate": 0.0606,
+                "success": 12
+            },
+            {
+                "stock": "006204",
+                "limit": 0.07,
+                "cost": 522700,
+                "value": 554400,
+                "return_rate": 0.0606,
+                "success": 12
+            },
+            {
+                "stock": "006204",
+                "limit": "LU",
+                "cost": 522700,
+                "value": 554400,
+                "return_rate": 0.0606,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "0058",
+        "name": "富邦發達",
+        "history_volatility": 0.12914764669424542,
+        "details": [
+            {
+                "stock": "0058",
+                "limit": 0,
+                "cost": 331190,
+                "value": 363870,
+                "return_rate": 0.0987,
+                "success": 9
+            },
+            {
+                "stock": "0058",
+                "limit": 0.01,
+                "cost": 407420,
+                "value": 444730,
+                "return_rate": 0.0916,
+                "success": 11
+            },
+            {
+                "stock": "0058",
+                "limit": 0.03,
+                "cost": 446840,
+                "value": 485160,
+                "return_rate": 0.0858,
+                "success": 12
+            },
+            {
+                "stock": "0058",
+                "limit": 0.05,
+                "cost": 446840,
+                "value": 485160,
+                "return_rate": 0.0858,
+                "success": 12
+            },
+            {
+                "stock": "0058",
+                "limit": 0.07,
+                "cost": 446840,
+                "value": 485160,
+                "return_rate": 0.0858,
+                "success": 12
+            },
+            {
+                "stock": "0058",
+                "limit": "LU",
+                "cost": 446840,
+                "value": 485160,
+                "return_rate": 0.0858,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "0051",
+        "name": "元大中型100",
+        "history_volatility": 0.15841064550312678,
+        "details": [
+            {
+                "stock": "0051",
+                "limit": 0,
+                "cost": 249490,
+                "value": 257700,
+                "return_rate": 0.0329,
+                "success": 10
+            },
+            {
+                "stock": "0051",
+                "limit": 0.01,
+                "cost": 302380,
+                "value": 309240,
+                "return_rate": 0.0227,
+                "success": 12
+            },
+            {
+                "stock": "0051",
+                "limit": 0.03,
+                "cost": 302380,
+                "value": 309240,
+                "return_rate": 0.0227,
+                "success": 12
+            },
+            {
+                "stock": "0051",
+                "limit": 0.05,
+                "cost": 302380,
+                "value": 309240,
+                "return_rate": 0.0227,
+                "success": 12
+            },
+            {
+                "stock": "0051",
+                "limit": 0.07,
+                "cost": 302380,
+                "value": 309240,
+                "return_rate": 0.0227,
+                "success": 12
+            },
+            {
+                "stock": "0051",
+                "limit": "LU",
+                "cost": 302380,
+                "value": 309240,
+                "return_rate": 0.0227,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "006206",
+        "name": "元大上證50",
+        "history_volatility": 0.1975987521809082,
+        "details": [
+            {
+                "stock": "006206",
+                "limit": 0,
+                "cost": 234460,
+                "value": 248580,
+                "return_rate": 0.0602,
+                "success": 9
+            },
+            {
+                "stock": "006206",
+                "limit": 0.01,
+                "cost": 312560,
+                "value": 331440,
+                "return_rate": 0.0604,
+                "success": 12
+            },
+            {
+                "stock": "006206",
+                "limit": 0.03,
+                "cost": 312560,
+                "value": 331440,
+                "return_rate": 0.0604,
+                "success": 12
+            },
+            {
+                "stock": "006206",
+                "limit": 0.05,
+                "cost": 312560,
+                "value": 331440,
+                "return_rate": 0.0604,
+                "success": 12
+            },
+            {
+                "stock": "006206",
+                "limit": 0.07,
+                "cost": 312560,
+                "value": 331440,
+                "return_rate": 0.0604,
+                "success": 12
+            },
+            {
+                "stock": "006206",
+                "limit": "LU",
+                "cost": 312560,
+                "value": 331440,
+                "return_rate": 0.0604,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "0054",
+        "name": "元大台商50",
+        "history_volatility": 0.1570637829072292,
+        "details": [
+            {
+                "stock": "0054",
+                "limit": 0,
+                "cost": 162090,
+                "value": 171840,
+                "return_rate": 0.0602,
+                "success": 8
+            },
+            {
+                "stock": "0054",
+                "limit": 0.01,
+                "cost": 248920,
+                "value": 257760,
+                "return_rate": 0.0355,
+                "success": 12
+            },
+            {
+                "stock": "0054",
+                "limit": 0.03,
+                "cost": 249010,
+                "value": 257760,
+                "return_rate": 0.0351,
+                "success": 12
+            },
+            {
+                "stock": "0054",
+                "limit": 0.05,
+                "cost": 249010,
+                "value": 257760,
+                "return_rate": 0.0351,
+                "success": 12
+            },
+            {
+                "stock": "0054",
+                "limit": 0.07,
+                "cost": 249010,
+                "value": 257760,
+                "return_rate": 0.0351,
+                "success": 12
+            },
+            {
+                "stock": "0054",
+                "limit": "LU",
+                "cost": 249010,
+                "value": 257760,
+                "return_rate": 0.0351,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "0061",
+        "name": "元大寶滬深",
+        "history_volatility": 0.20067815063067493,
+        "details": [
+            {
+                "stock": "0061",
+                "limit": 0,
+                "cost": 176640,
+                "value": 181940,
+                "return_rate": 0.03,
+                "success": 11
+            },
+            {
+                "stock": "0061",
+                "limit": 0.01,
+                "cost": 176870,
+                "value": 181940,
+                "return_rate": 0.0287,
+                "success": 11
+            },
+            {
+                "stock": "0061",
+                "limit": 0.03,
+                "cost": 193390,
+                "value": 198480,
+                "return_rate": 0.0263,
+                "success": 12
+            },
+            {
+                "stock": "0061",
+                "limit": 0.05,
+                "cost": 193390,
+                "value": 198480,
+                "return_rate": 0.0263,
+                "success": 12
+            },
+            {
+                "stock": "0061",
+                "limit": 0.07,
+                "cost": 193390,
+                "value": 198480,
+                "return_rate": 0.0263,
+                "success": 12
+            },
+            {
+                "stock": "0061",
+                "limit": "LU",
+                "cost": 193390,
+                "value": 198480,
+                "return_rate": 0.0263,
+                "success": 12
+            }
+        ]
+    },
+    {
+        "stock": "0050",
+        "name": "元大台灣50",
+        "history_volatility": 0.1524287409696608,
+        "details": [
+            {
+                "stock": "0050",
+                "limit": 0,
+                "cost": 646150,
+                "value": 731500,
+                "return_rate": 0.1321,
+                "success": 10
+            },
+            {
+                "stock": "0050",
+                "limit": 0.01,
+                "cost": 718200,
+                "value": 804650,
+                "return_rate": 0.1204,
+                "success": 11
+            },
+            {
+                "stock": "0050",
+                "limit": 0.03,
+                "cost": 788100,
+                "value": 877800,
+                "return_rate": 0.1138,
+                "success": 12
+            },
+            {
+                "stock": "0050",
+                "limit": 0.05,
+                "cost": 788100,
+                "value": 877800,
+                "return_rate": 0.1138,
+                "success": 12
+            },
+            {
+                "stock": "0050",
+                "limit": 0.07,
+                "cost": 788100,
+                "value": 877800,
+                "return_rate": 0.1138,
+                "success": 12
+            },
+            {
+                "stock": "0050",
+                "limit": "LU",
+                "cost": 788100,
+                "value": 877800,
+                "return_rate": 0.1138,
+                "success": 12
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+USER@ASUS MINGW64 ~/desktop/Fugle-Tags (master)
+$ ld
+D:\XQLite\XS\Build\MinGW\bin\ld.exe: no input files
+
+USER@ASUS MINGW64 ~/desktop/Fugle-Tags (master)
+$ ls
+constant.js  FCNT00002/  month/         README.md        test/
+database/    FCNT00005/  node_modules/  season/          test.text
+day/         FCNT00006/  package.json   STOCKINDICATOR/
+
+USER@ASUS MINGW64 ~/desktop/Fugle-Tags (master)
+$ cd ~/.ssh/
+
+USER@ASUS MINGW64 ~/.ssh
+$ ls
+config        github_rsa      id_rsa      known_hosts
+fugle_id_rsa  github_rsa.pub  id_rsa.pub
+
+USER@ASUS MINGW64 ~/.ssh
+$ cat config
+Host git.fugle.tw
+ IdentityFile ~/.ssh/fugle_id_rsa
+
+USER@ASUS MINGW64 ~/.ssh
+$ ssh git.fugle.tw
+Permission denied (publickey).
+
+USER@ASUS MINGW64 ~/.ssh
+$ ls
+config        github_rsa      id_rsa      known_hosts
+fugle_id_rsa  github_rsa.pub  id_rsa.pub
+
+USER@ASUS MINGW64 ~/.ssh
+$ ssh hank0438@git.fugle.tw
+Welcome to Ubuntu 14.04.5 LTS (GNU/Linux 3.13.0-74-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com/
+
+  System information as of Mon Nov  7 10:38:42 CST 2016
+
+  System load:  0.01                Processes:           162
+  Usage of /:   10.6% of 125.86GB   Users logged in:     0
+  Memory usage: 65%                 IP address for eth0: 172.31.31.233
+  Swap usage:   0%
+
+  Graph this data and manage this system at:
+    https://landscape.canonical.com/
+
+  Get cloud support with Ubuntu Advantage Cloud Guest:
+    http://www.ubuntu.com/business/services/cloud
+
+37 packages can be updated.
+26 updates are security updates.
+
+New release '16.04.1 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+Last login: Wed Aug 24 17:54:04 2016 from ip-172-31-28-67.ap-northeast-1.compute.internal
+hank0438@git:~$ echo "hello"
+hello
+hank0438@git:~$ Connection to git.fugle.tw closed by remote host.
+Connection to git.fugle.tw closed.
+
+USER@ASUS MINGW64 ~/.ssh

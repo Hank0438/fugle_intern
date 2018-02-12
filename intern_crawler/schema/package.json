@@ -1,0 +1,27 @@
+{
+  "name": "fortuna-db",
+  "version": "0.0.0",
+  "private": true,
+  "directories": {
+    "doc": "doc",
+    "test": "test"
+  },
+  "scripts": {
+    "start": "",
+    "build": "",
+    "test": ""
+  },
+  "repository": "",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "bluebird": "^2.2.2",
+    "moment": "^2.8.1",
+    "mongoose": "^3.8.14",
+    "underscore": "^1.6.0"
+  }
+}
